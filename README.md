@@ -1,6 +1,4 @@
-# Ted Talks
-
-[[_TOC_]]
+# Interactive Visual Analytics on Ted Talks
 
 ## Team Members
 1. Yaqi Qin
