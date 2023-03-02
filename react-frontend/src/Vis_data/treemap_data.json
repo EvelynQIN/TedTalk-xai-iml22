@@ -1,0 +1,1439 @@
+{
+ "tree_hyerarchy": [
+  {
+   "name": 2006,
+   "children": [
+    {
+     "name": "Music & Creativity",
+     "children": [
+      {
+       "name": "Sirena Huang dazzles on violin",
+       "value": 938726
+      },
+      {
+       "name": "Jennifer Lin: Improvising on piano, aged 14",
+       "value": 881317
+      },
+      {
+       "name": "David Pogue says \"Simplicity sells\"",
+       "value": 527452
+      },
+      {
+       "name": "Rives: If I controlled the Internet \u2026",
+       "value": 475155
+      },
+      {
+       "name": "Richard Baraniuk on open-source learning",
+       "value": 423468
+      }
+     ]
+    },
+    {
+     "name": "Happiness",
+     "children": [
+      {
+       "name": "Dan Gilbert: The surprising science of happiness",
+       "value": 3917002
+      },
+      {
+       "name": "Barry Schwartz on the paradox of choice",
+       "value": 2346880
+      },
+      {
+       "name": "Malcolm Gladwell: Choice, happiness and spaghetti sauce",
+       "value": 2159123
+      },
+      {
+       "name": "Tony Robbins asks why we do what we do",
+       "value": 2019803
+      },
+      {
+       "name": "Dan Dennett's response to Rick Warren",
+       "value": 536934
+      }
+     ]
+    },
+    {
+     "name": "Medicine",
+     "children": [
+      {
+       "name": "Aubrey de Grey says we can avoid aging",
+       "value": 1070440
+      },
+      {
+       "name": "Ray Kurzweil on how technology will transform us",
+       "value": 883105
+      },
+      {
+       "name": "Dean Ornish on the world's killer diet",
+       "value": 526634
+      },
+      {
+       "name": "Eva Vertes looks to the future of medicine",
+       "value": 407292
+      },
+      {
+       "name": "Peter Donnelly shows how stats fool juries",
+       "value": 384553
+      }
+     ]
+    },
+    {
+     "name": "Development",
+     "children": [
+      {
+       "name": "Hans Rosling shows the best stats you've ever seen",
+       "value": 3950393
+      },
+      {
+       "name": "Majora Carter: Greening the ghetto",
+       "value": 557511
+      },
+      {
+       "name": "Dean Ornish on the world's killer diet",
+       "value": 526634
+      },
+      {
+       "name": "Amy Smith shares simple, lifesaving design",
+       "value": 378950
+      },
+      {
+       "name": "Jacqueline Novogratz invests in Africa's own solutions",
+       "value": 230222
+      }
+     ]
+    },
+    {
+     "name": "Environment",
+     "children": [
+      {
+       "name": "Al Gore: Averting the climate crisis",
+       "value": 1490244
+      },
+      {
+       "name": "Richard Dawkins: Why the universe seems so strange",
+       "value": 765667
+      },
+      {
+       "name": "David Deutsch: Chemical scum that dream of distant quasars",
+       "value": 575649
+      },
+      {
+       "name": "Kevin Kelly: How technology evolves",
+       "value": 526271
+      },
+      {
+       "name": "Burt Rutan sees the future of space",
+       "value": 466986
+      }
+     ]
+    },
+    {
+     "name": "Design",
+     "children": [
+      {
+       "name": "Jeff Han demos his breakthrough touchscreen",
+       "value": 2323484
+      },
+      {
+       "name": "Steven Levitt: The freakonomics of McDonalds vs. drugs",
+       "value": 489461
+      },
+      {
+       "name": "Ross Lovegrove shares organic designs",
+       "value": 470089
+      },
+      {
+       "name": "Burt Rutan sees the future of space",
+       "value": 466986
+      },
+      {
+       "name": "Cameron Sinclair on open-source architecture",
+       "value": 413548
+      }
+     ]
+    },
+    {
+     "name": "Tech",
+     "children": [
+      {
+       "name": "Aubrey de Grey: A roadmap to end aging",
+       "value": 1178613
+      },
+      {
+       "name": "Ray Kurzweil: The accelerating power of technology",
+       "value": 993665
+      },
+      {
+       "name": "Richard Dawkins: The universe is queerer than we can suppose",
+       "value": 688186
+      },
+      {
+       "name": "Kevin Kelly: How technology evolves",
+       "value": 526271
+      },
+      {
+       "name": "Peter Donnelly shows how stats fool juries",
+       "value": 384553
+      }
+     ]
+    },
+    {
+     "name": "Story & Women",
+     "children": [
+      {
+       "name": "Julia Sweeney: Letting go of God",
+       "value": 1054799
+      },
+      {
+       "name": "Rick Warren: A life of purpose",
+       "value": 1050599
+      },
+      {
+       "name": "Eve Ensler: Happiness in body and soul",
+       "value": 362016
+      },
+      {
+       "name": "Peter Gabriel fights injustice with video",
+       "value": 246952
+      },
+      {
+       "name": "Bono's call to action for Africa",
+       "value": 230471
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": 2007,
+   "children": [
+    {
+     "name": "Music & Creativity",
+     "children": [
+      {
+       "name": "Arthur Benjamin does \"Mathemagic\"",
+       "value": 4443141
+      },
+      {
+       "name": "Evelyn Glennie: How to truly listen",
+       "value": 1189447
+      },
+      {
+       "name": "Pilobolus perform \"Symbiosis\"",
+       "value": 697970
+      },
+      {
+       "name": "Ron Eglash on African fractals",
+       "value": 596718
+      },
+      {
+       "name": "John Maeda on the simple life",
+       "value": 504947
+      }
+     ]
+    },
+    {
+     "name": "Happiness",
+     "children": [
+      {
+       "name": "Richard Dawkins: Militant atheism",
+       "value": 1763738
+      },
+      {
+       "name": "Richard Dawkins on militant atheism",
+       "value": 1607393
+      },
+      {
+       "name": "Matthieu Ricard on the habits of happiness",
+       "value": 1387110
+      },
+      {
+       "name": "Dan Dennett: Dangerous memes",
+       "value": 768292
+      },
+      {
+       "name": "Philippe Starck thinks deep on design",
+       "value": 670143
+      }
+     ]
+    },
+    {
+     "name": "Medicine",
+     "children": [
+      {
+       "name": "VS Ramachandran: 3 clues to understanding your brain",
+       "value": 1794672
+      },
+      {
+       "name": "David Bolinsky: Visualizing the wonder of a living cell",
+       "value": 798515
+      },
+      {
+       "name": "Dan Dennett: Dangerous memes",
+       "value": 768292
+      },
+      {
+       "name": "Alan Russell on regenerating our bodies",
+       "value": 594498
+      },
+      {
+       "name": "James Watson on how he discovered DNA",
+       "value": 355050
+      }
+     ]
+    },
+    {
+     "name": "Development",
+     "children": [
+      {
+       "name": "Hans Rosling's new insights on poverty",
+       "value": 1798652
+      },
+      {
+       "name": "Amory Lovins on winning the oil endgame",
+       "value": 413028
+      },
+      {
+       "name": "Stewart Brand on squatter cities",
+       "value": 307670
+      },
+      {
+       "name": "John Doerr sees salvation and profit in greentech",
+       "value": 301881
+      },
+      {
+       "name": "Emily Oster flips our thinking on AIDS in Africa",
+       "value": 300143
+      }
+     ]
+    },
+    {
+     "name": "Environment",
+     "children": [
+      {
+       "name": "Theo Jansen creates new creatures",
+       "value": 1849265
+      },
+      {
+       "name": "Carolyn Porco flies us to Saturn",
+       "value": 699731
+      },
+      {
+       "name": "Bill Stone: Exploring deep caves (and someday the moon)",
+       "value": 584928
+      },
+      {
+       "name": "Frans Lanting's lyrical nature photos",
+       "value": 433015
+      },
+      {
+       "name": "E.O. Wilson on saving life on Earth",
+       "value": 411628
+      }
+     ]
+    },
+    {
+     "name": "Design",
+     "children": [
+      {
+       "name": "Blaise Aguera y Arcas demos Photosynth",
+       "value": 3102074
+      },
+      {
+       "name": "Al Seckel: Powerful visual illusions",
+       "value": 698306
+      },
+      {
+       "name": "William Kamkwamba on building a windmill",
+       "value": 490093
+      },
+      {
+       "name": "Vik Muniz makes art with wire, sugar",
+       "value": 481634
+      },
+      {
+       "name": "David Kelley on human-centered design",
+       "value": 337723
+      }
+     ]
+    },
+    {
+     "name": "Tech",
+     "children": [
+      {
+       "name": "Dan Dennett on our consciousness",
+       "value": 979195
+      },
+      {
+       "name": "Jeff Hawkins: How brain science will change computing",
+       "value": 601329
+      },
+      {
+       "name": "Steven Pinker on language and thought",
+       "value": 577537
+      },
+      {
+       "name": "Murray Gell-Mann on beauty and truth in physics",
+       "value": 486524
+      },
+      {
+       "name": "Hod Lipson builds \"self-aware\" robots",
+       "value": 457294
+      }
+     ]
+    },
+    {
+     "name": "Story & Women",
+     "children": [
+      {
+       "name": "Rives on 4 a.m.",
+       "value": 925142
+      },
+      {
+       "name": "Thomas Barnett: Rethinking America's military strategy",
+       "value": 428348
+      },
+      {
+       "name": "Anna Deavere Smith: Four American characters",
+       "value": 304659
+      },
+      {
+       "name": "James Nachtwey: My photographs bear witness",
+       "value": 286970
+      },
+      {
+       "name": "Chris Abani on the stories of Africa",
+       "value": 262477
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": 2008,
+   "children": [
+    {
+     "name": "Music & Creativity",
+     "children": [
+      {
+       "name": "Benjamin Zander on music and passion",
+       "value": 2520123
+      },
+      {
+       "name": "Lennart Green: Close-up card magic with a twist",
+       "value": 1408807
+      },
+      {
+       "name": "Pamelia Kurstin plays the theremin",
+       "value": 505568
+      },
+      {
+       "name": "James Burchfield plays (invisible) turntables",
+       "value": 271982
+      },
+      {
+       "name": "Tod Machover and Dan Ellsey play new music",
+       "value": 248340
+      }
+     ]
+    },
+    {
+     "name": "Happiness",
+     "children": [
+      {
+       "name": "Martin Seligman: The new era of positive psychology",
+       "value": 1198681
+      },
+      {
+       "name": "Jonathan Haidt on the moral roots of liberals and conservatives",
+       "value": 1145334
+      },
+      {
+       "name": "Mihaly Csikszentmihalyi: Flow, the secret to happiness",
+       "value": 780900
+      },
+      {
+       "name": "Deborah Gordon: The emergent genius of ant colonies",
+       "value": 372299
+      },
+      {
+       "name": "Paul Collier on the \"bottom billion\"",
+       "value": 366651
+      }
+     ]
+    },
+    {
+     "name": "Medicine",
+     "children": [
+      {
+       "name": "Christopher deCharms looks inside the brain",
+       "value": 561605
+      },
+      {
+       "name": "Dean Ornish: Your genes are not your fate",
+       "value": 458397
+      },
+      {
+       "name": "Susan Blackmore: Memes and \"temes\"",
+       "value": 420030
+      },
+      {
+       "name": "Dean Ornish: Healing through diet",
+       "value": 373220
+      },
+      {
+       "name": "Gregory Petsko on the coming neurological epidemic",
+       "value": 318182
+      }
+     ]
+    },
+    {
+     "name": "Development",
+     "children": [
+      {
+       "name": "Mark Bittman: What's wrong with what we eat",
+       "value": 1168072
+      },
+      {
+       "name": "Ben Dunlap: The life-long learner",
+       "value": 670781
+      },
+      {
+       "name": "Adam Grosser and his sustainable fridge",
+       "value": 570423
+      },
+      {
+       "name": "Benjamin Wallace: The price of happiness",
+       "value": 466250
+      },
+      {
+       "name": "Ann Cooper talks school lunches",
+       "value": 359741
+      }
+     ]
+    },
+    {
+     "name": "Environment",
+     "children": [
+      {
+       "name": "David Gallo shows underwater astonishments",
+       "value": 7233825
+      },
+      {
+       "name": "Paul Stamets: 6 ways mushrooms can save the world",
+       "value": 1382111
+      },
+      {
+       "name": "David Gallo on life in the deep oceans",
+       "value": 376807
+      },
+      {
+       "name": "Richard Preston on the giant trees ",
+       "value": 228114
+      },
+      {
+       "name": "Freeman Dyson says: let's look for life in the outer solar system",
+       "value": 184923
+      }
+     ]
+    },
+    {
+     "name": "Design",
+     "children": [
+      {
+       "name": "Yves Behar on designing objects that tell stories",
+       "value": 361263
+      },
+      {
+       "name": "Stefan Sagmeister on what he has learned",
+       "value": 349602
+      },
+      {
+       "name": "Frank Gehry asks \"Then what?\"",
+       "value": 266564
+      },
+      {
+       "name": "Frank Gehry as a young rebel",
+       "value": 249718
+      },
+      {
+       "name": "David Macaulay's Rome Antics",
+       "value": 228830
+      }
+     ]
+    },
+    {
+     "name": "Tech",
+     "children": [
+      {
+       "name": "Brian Greene: Making sense of string theory",
+       "value": 1655400
+      },
+      {
+       "name": "Stephen Hawking asks big questions about the universe",
+       "value": 1153169
+      },
+      {
+       "name": "Garrett Lisi on his theory of everything",
+       "value": 694173
+      },
+      {
+       "name": "Kevin Kelly on the next 5,000 days of the web",
+       "value": 545161
+      },
+      {
+       "name": "Kwabena Boahen on a computer that works like the brain",
+       "value": 268025
+      }
+     ]
+    },
+    {
+     "name": "Story & Women",
+     "children": [
+      {
+       "name": "Rick Smolan tells the story of a girl",
+       "value": 1105553
+      },
+      {
+       "name": "A.J. Jacobs: My year of living biblically",
+       "value": 788033
+      },
+      {
+       "name": "Eve Ensler on security",
+       "value": 469988
+      },
+      {
+       "name": "Chris Abani muses on humanity",
+       "value": 318724
+      },
+      {
+       "name": "Kristen Ashburn's photos of AIDS",
+       "value": 209559
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": 2009,
+   "children": [
+    {
+     "name": "Music & Creativity",
+     "children": [
+      {
+       "name": "Elizabeth Gilbert: Your elusive creative genius",
+       "value": 4195072
+      },
+      {
+       "name": "David Merrill demos Siftables",
+       "value": 1266183
+      },
+      {
+       "name": "Itay Talgam: Lead like the great conductors",
+       "value": 857110
+      },
+      {
+       "name": "Naturally 7 beatboxes a whole band",
+       "value": 539826
+      },
+      {
+       "name": "Kaki King rocks out to \"Pink Noise\"",
+       "value": 291269
+      }
+     ]
+    },
+    {
+     "name": "Happiness",
+     "children": [
+      {
+       "name": "Dan Pink on the surprising science of motivation",
+       "value": 3298491
+      },
+      {
+       "name": "Barry Schwartz on our loss of wisdom",
+       "value": 1174379
+      },
+      {
+       "name": "Nancy Etcoff: Happiness and its surprises",
+       "value": 373689
+      },
+      {
+       "name": "David Logan on tribal leadership",
+       "value": 353006
+      },
+      {
+       "name": "Liz Coleman's call to reinvent liberal arts education ",
+       "value": 265471
+      }
+     ]
+    },
+    {
+     "name": "Medicine",
+     "children": [
+      {
+       "name": "Mary Roach: 10 things you didn't know about orgasm",
+       "value": 2855779
+      },
+      {
+       "name": "Oliver Sacks: What hallucination reveals about our minds",
+       "value": 1392025
+      },
+      {
+       "name": "Dan Dennett: Cute, sexy, sweet, funny",
+       "value": 947625
+      },
+      {
+       "name": "Mike Rowe: Learning from dirty jobs",
+       "value": 700995
+      },
+      {
+       "name": "Kary Mullis' next-gen cure for killer infections",
+       "value": 344087
+      }
+     ]
+    },
+    {
+     "name": "Development",
+     "children": [
+      {
+       "name": "Kamal Meattle on how to grow fresh air",
+       "value": 1207745
+      },
+      {
+       "name": "Bill Gates on mosquitos, malaria and education",
+       "value": 1088044
+      },
+      {
+       "name": "Hans Rosling: Asia's rise -- how and when",
+       "value": 923497
+      },
+      {
+       "name": "Hans Rosling: Let my dataset change your mindset",
+       "value": 640744
+      },
+      {
+       "name": "Hans Rosling on HIV: New facts and stunning data visuals",
+       "value": 448955
+      }
+     ]
+    },
+    {
+     "name": "Environment",
+     "children": [
+      {
+       "name": "Bonnie Bassler: How bacteria \"talk\"",
+       "value": 959773
+      },
+      {
+       "name": "Capt. Charles Moore on the seas of plastic",
+       "value": 557610
+      },
+      {
+       "name": "Sylvia Earle's TED Prize wish to protect our oceans",
+       "value": 397891
+      },
+      {
+       "name": "Al Gore warns on latest climate trends",
+       "value": 374263
+      },
+      {
+       "name": "Carolyn Porco: Could a Saturn moon harbor life?",
+       "value": 306561
+      }
+     ]
+    },
+    {
+     "name": "Design",
+     "children": [
+      {
+       "name": "Eric Giler demos wireless electricity",
+       "value": 1350424
+      },
+      {
+       "name": "Aimee Mullins: Changing my legs - and my mindset",
+       "value": 451531
+      },
+      {
+       "name": "Ueli Gegenschatz soars in a wingsuit",
+       "value": 448351
+      },
+      {
+       "name": "Paul Debevec animates a photo-real digital face",
+       "value": 436453
+      },
+      {
+       "name": "Tom Shannon's anti-gravity sculpture",
+       "value": 343184
+      }
+     ]
+    },
+    {
+     "name": "Tech",
+     "children": [
+      {
+       "name": "Dan Ariely: Our buggy moral code",
+       "value": 1058735
+      },
+      {
+       "name": "Rebecca Saxe: How we read each other's minds",
+       "value": 1032499
+      },
+      {
+       "name": "Ray Kurzweil: A university for the coming singularity",
+       "value": 539993
+      },
+      {
+       "name": "Michael Merzenich on re-wiring the brain",
+       "value": 392756
+      },
+      {
+       "name": "Henry Markram builds a brain in a supercomputer",
+       "value": 386521
+      }
+     ]
+    },
+    {
+     "name": "Story & Women",
+     "children": [
+      {
+       "name": "Chimamanda Adichie: The danger of a single story",
+       "value": 3241879
+      },
+      {
+       "name": "Sunitha Krishnan fights sex slavery",
+       "value": 909386
+      },
+      {
+       "name": "Becky Blanton: The year I was homeless",
+       "value": 432945
+      },
+      {
+       "name": "Michelle Obama's plea for education",
+       "value": 356041
+      },
+      {
+       "name": "Emmanuel Jal: The music of a war child",
+       "value": 266829
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": 2010,
+   "children": [
+    {
+     "name": "Music & Creativity",
+     "children": [
+      {
+       "name": "The LXD: In the Internet age, dance evolves ...",
+       "value": 611088
+      },
+      {
+       "name": "Andrew Bird's one-man orchestra of the imagination",
+       "value": 541117
+      },
+      {
+       "name": "David Byrne: How architecture helped music evolve",
+       "value": 492131
+      },
+      {
+       "name": "Robert Gupta: Music is medicine, music is sanity",
+       "value": 434140
+      },
+      {
+       "name": "Julian Treasure: Shh! Sound health in 8 steps",
+       "value": 432421
+      }
+     ]
+    },
+    {
+     "name": "Happiness",
+     "children": [
+      {
+       "name": "Chip Conley: Measuring what makes life worthwhile",
+       "value": 932516
+      },
+      {
+       "name": "Sheena Iyengar: The art of choosing",
+       "value": 915324
+      },
+      {
+       "name": "Tim Jackson's economic reality check",
+       "value": 435810
+      },
+      {
+       "name": "Barry Schwartz: Using our practical wisdom",
+       "value": 419380
+      },
+      {
+       "name": "Joseph Nye on global power shifts",
+       "value": 392588
+      }
+     ]
+    },
+    {
+     "name": "Medicine",
+     "children": [
+      {
+       "name": "William Li: Can we eat to starve cancer?",
+       "value": 1873903
+      },
+      {
+       "name": "Anthony Atala: Growing new organs",
+       "value": 804277
+      },
+      {
+       "name": "Aditi Shankardass: A second opinion on developmental disorders ",
+       "value": 580589
+      },
+      {
+       "name": "Eric Topol: The wireless future of medicine",
+       "value": 380704
+      },
+      {
+       "name": "David Agus: A new strategy in the war on cancer",
+       "value": 270431
+      }
+     ]
+    },
+    {
+     "name": "Development",
+     "children": [
+      {
+       "name": "Jamie Oliver's TED Prize wish: Teach every child about food",
+       "value": 2506643
+      },
+      {
+       "name": "Hans Rosling on global population growth",
+       "value": 916179
+      },
+      {
+       "name": "Melinda French Gates: What nonprofits can learn from Coca-Cola",
+       "value": 385318
+      },
+      {
+       "name": "Charles Leadbeater: Education innovation in the slums",
+       "value": 321025
+      },
+      {
+       "name": "Ellen Gustafson: Obesity + Hunger = 1 global food issue",
+       "value": 305494
+      }
+     ]
+    },
+    {
+     "name": "Environment",
+     "children": [
+      {
+       "name": "Brian Skerry reveals ocean's glory -- and horror",
+       "value": 564431
+      },
+      {
+       "name": "Jeremy Jackson: How we wrecked the ocean",
+       "value": 333309
+      },
+      {
+       "name": "Joel Levine: Why we need to go back to Mars",
+       "value": 248562
+      },
+      {
+       "name": "Greg Stone: Saving the ocean one island at a time",
+       "value": 176341
+      },
+      {
+       "name": "Lee Hotz: Inside an Antarctic time machine",
+       "value": 172050
+      }
+     ]
+    },
+    {
+     "name": "Design",
+     "children": [
+      {
+       "name": "Blaise Aguera y Arcas demos augmented-reality maps",
+       "value": 1324406
+      },
+      {
+       "name": "John Underkoffler points to the future of UI",
+       "value": 705967
+      },
+      {
+       "name": "Dan Phillips: Creative houses from reclaimed stuff",
+       "value": 537475
+      },
+      {
+       "name": "Tim Berners-Lee: The year open data went worldwide",
+       "value": 428763
+      },
+      {
+       "name": "Hillel Cooperman: Legos for grownups",
+       "value": 416545
+      }
+     ]
+    },
+    {
+     "name": "Tech",
+     "children": [
+      {
+       "name": "Jane McGonigal: Gaming can make a better world",
+       "value": 2462116
+      },
+      {
+       "name": "Tan Le: A headset that reads your brainwaves",
+       "value": 1142793
+      },
+      {
+       "name": "VS Ramachandran: The neurons that shaped civilization",
+       "value": 906899
+      },
+      {
+       "name": "Stephen Wolfram: Computing a theory of everything",
+       "value": 718202
+      },
+      {
+       "name": "Laurie Santos: A monkey economy as irrational as ours",
+       "value": 572837
+      }
+     ]
+    },
+    {
+     "name": "Story & Women",
+     "children": [
+      {
+       "name": "Tony Porter: A call to men",
+       "value": 699671
+      },
+      {
+       "name": "Elif Shafak: The politics of fiction",
+       "value": 664425
+      },
+      {
+       "name": "William Ury: The walk from \"no\" to \"yes\"",
+       "value": 627151
+      },
+      {
+       "name": "Eve Ensler: Embrace your inner girl",
+       "value": 616348
+      },
+      {
+       "name": "Sharmeen Obaid-Chinoy: Inside a school for suicide bombers",
+       "value": 439400
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": 2011,
+   "children": [
+    {
+     "name": "Music & Creativity",
+     "children": [
+      {
+       "name": "Marco Tempest: The magic of truth and lies (and iPods)",
+       "value": 2947475
+      },
+      {
+       "name": "Eric Whitacre: A virtual choir 2,000 voices strong",
+       "value": 1143131
+      },
+      {
+       "name": "Marco Tempest: Augmented reality, techno-magic",
+       "value": 764759
+      },
+      {
+       "name": "Maya Beiser(s) and her cello(s) ",
+       "value": 555281
+      },
+      {
+       "name": "Stefon Harris: There are no mistakes on the bandstand",
+       "value": 443875
+      }
+     ]
+    },
+    {
+     "name": "Happiness",
+     "children": [
+      {
+       "name": "Richard Wilkinson: How economic inequality harms societies",
+       "value": 1428643
+      },
+      {
+       "name": "Martin Jacques: Understanding the rise of China",
+       "value": 972559
+      },
+      {
+       "name": "Niall Ferguson: The 6 killer apps of prosperity",
+       "value": 813636
+      },
+      {
+       "name": "Yasheng Huang: Does democracy stifle economic growth?",
+       "value": 505365
+      },
+      {
+       "name": "Rebecca MacKinnon: Let's take back the Internet!",
+       "value": 456228
+      }
+     ]
+    },
+    {
+     "name": "Medicine",
+     "children": [
+      {
+       "name": "Anthony Atala: Printing a human kidney",
+       "value": 690000
+      },
+      {
+       "name": "Quyen Nguyen: Color-coded surgery",
+       "value": 540223
+      },
+      {
+       "name": "Yoav Medan: Ultrasound surgery -- healing without cuts",
+       "value": 501891
+      },
+      {
+       "name": "Daniel Kraft: Medicine's future? There's an app for that",
+       "value": 458070
+      },
+      {
+       "name": "Cynthia Kenyon: Experiments that hint of longer lives",
+       "value": 454879
+      }
+     ]
+    },
+    {
+     "name": "Development",
+     "children": [
+      {
+       "name": "Hans Rosling and the magic washing machine",
+       "value": 794600
+      },
+      {
+       "name": "Josette Sheeran: Ending hunger now",
+       "value": 707046
+      },
+      {
+       "name": "Sebastian Thrun: Google's driverless car",
+       "value": 689984
+      },
+      {
+       "name": "Geoff Mulgan: A short intro to the Studio School",
+       "value": 527024
+      },
+      {
+       "name": "Homaro Cantu + Ben Roche: Cooking as alchemy  ",
+       "value": 466279
+      }
+     ]
+    },
+    {
+     "name": "Environment",
+     "children": [
+      {
+       "name": "Phil Plait: How to defend Earth from asteroids",
+       "value": 775815
+      },
+      {
+       "name": "Mike Biddle: We can recycle plastic",
+       "value": 652958
+      },
+      {
+       "name": "Jae Rhim Lee: My mushroom burial suit",
+       "value": 557217
+      },
+      {
+       "name": "Martin Hanczyc: The line between life and not-life",
+       "value": 527037
+      },
+      {
+       "name": "Lucianne Walkowicz: Finding planets around other stars",
+       "value": 486871
+      }
+     ]
+    },
+    {
+     "name": "Design",
+     "children": [
+      {
+       "name": "Graham Hill: Less stuff, more happiness",
+       "value": 1514063
+      },
+      {
+       "name": "Harald Haas: Wireless data from every light bulb",
+       "value": 1111407
+      },
+      {
+       "name": "Janet Echelman: Taking imagination seriously",
+       "value": 718395
+      },
+      {
+       "name": "Robert Hammond: Building a park in the sky",
+       "value": 443643
+      },
+      {
+       "name": "Thomas Heatherwick: Building the Seed Cathedral",
+       "value": 407276
+      }
+     ]
+    },
+    {
+     "name": "Tech",
+     "children": [
+      {
+       "name": "Patricia Kuhl: The linguistic genius of babies",
+       "value": 989896
+      },
+      {
+       "name": "Sunni Brown: Doodlers, unite!",
+       "value": 904808
+      },
+      {
+       "name": "Alison Gopnik: What do babies think?",
+       "value": 786756
+      },
+      {
+       "name": "Daniel Wolpert: The real reason for brains",
+       "value": 668331
+      },
+      {
+       "name": "Aaron O'Connell: Making sense of a visible quantum object",
+       "value": 571025
+      }
+     ]
+    },
+    {
+     "name": "Story & Women",
+     "children": [
+      {
+       "name": "Julia Bacha: Pay attention to nonviolence",
+       "value": 483163
+      },
+      {
+       "name": "Monika Bulaj: The hidden light of Afghanistan",
+       "value": 426012
+      },
+      {
+       "name": "Liza Donnelly: Drawing on humor for change",
+       "value": 399836
+      },
+      {
+       "name": "Emiliano Salinas: A civil response to violence",
+       "value": 385732
+      },
+      {
+       "name": "Sarah Kaminsky: My father the forger",
+       "value": 360134
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": 2012,
+   "children": [
+    {
+     "name": "Music & Creativity",
+     "children": [
+      {
+       "name": "Kevin Allocca: Why videos go viral",
+       "value": 775609
+      },
+      {
+       "name": "Sebastian Wernicke: 1000 TEDTalks, 6 words",
+       "value": 437455
+      },
+      {
+       "name": "Usman Riaz and Preston Reed: A young guitarist meets his hero",
+       "value": 423663
+      },
+      {
+       "name": "Peter Norvig: The 100,000-student classroom",
+       "value": 372885
+      },
+      {
+       "name": "Michael Tilson Thomas: Music and emotion through time ",
+       "value": 345204
+      }
+     ]
+    },
+    {
+     "name": "Happiness",
+     "children": [
+      {
+       "name": "Alain de Botton: Atheism 2.0",
+       "value": 1056897
+      },
+      {
+       "name": "Sheena Iyengar: How to make choosing easier",
+       "value": 730090
+      },
+      {
+       "name": "Tali Sharot: The optimism bias",
+       "value": 551564
+      },
+      {
+       "name": "Jonathan Haidt: Religion, evolution, and the ecstasy of self-transcendence",
+       "value": 517286
+      },
+      {
+       "name": "Mikko Hypponen: Three types of online attack",
+       "value": 479160
+      }
+     ]
+    },
+    {
+     "name": "Medicine",
+     "children": [
+      {
+       "name": "Award-winning teenage science in action",
+       "value": 491199
+      },
+      {
+       "name": "Noel Bairey Merz: The single biggest health threat women face",
+       "value": 333967
+      },
+      {
+       "name": "Jack Horner: Shape-shifting dinosaurs",
+       "value": 317617
+      },
+      {
+       "name": "Jack Choi: On the virtual dissection table",
+       "value": 312185
+      },
+      {
+       "name": "Bill Doyle: Treating cancer with electric fields",
+       "value": 286766
+      }
+     ]
+    },
+    {
+     "name": "Development",
+     "children": [
+      {
+       "name": "Taylor Wilson: Yup, I built a nuclear fusion reactor",
+       "value": 1007456
+      },
+      {
+       "name": "Peter Diamandis: Abundance is our future",
+       "value": 761130
+      },
+      {
+       "name": "Hans Rosling: Religions and babies",
+       "value": 712189
+      },
+      {
+       "name": "Amory Lovins: A 40-year plan for energy",
+       "value": 465651
+      },
+      {
+       "name": "Drew Curtis: How I beat a patent troll",
+       "value": 420401
+      }
+     ]
+    },
+    {
+     "name": "Environment",
+     "children": [
+      {
+       "name": "James Hansen: Why I must speak out about climate change",
+       "value": 525895
+      },
+      {
+       "name": "Mike deGruy: Hooked by an octopus",
+       "value": 450362
+      },
+      {
+       "name": "Simon Berrow: How do you save a shark you know nothing about?",
+       "value": 237989
+      },
+      {
+       "name": "Damian Palin: Mining minerals from seawater",
+       "value": 234448
+      },
+      {
+       "name": "Jon Nguyen: Tour the solar system from home",
+       "value": 220795
+      }
+     ]
+    },
+    {
+     "name": "Design",
+     "children": [
+      {
+       "name": "A TED speaker's worst nightmare ",
+       "value": 1064126
+      },
+      {
+       "name": "Erik Johansson: Impossible photography",
+       "value": 827641
+      },
+      {
+       "name": "Ramesh Raskar: Imaging at a trillion frames per second",
+       "value": 779742
+      },
+      {
+       "name": "Lisa Harouni: A primer on 3D printing",
+       "value": 611779
+      },
+      {
+       "name": "Rob Legato: The art of creating awe",
+       "value": 516981
+      }
+     ]
+    },
+    {
+     "name": "Tech",
+     "children": [
+      {
+       "name": "Jane McGonigal: The game that can give you 10 extra years of life",
+       "value": 1010057
+      },
+      {
+       "name": "Frans de Waal: Moral behavior in animals",
+       "value": 792164
+      },
+      {
+       "name": "Neil Burgess: How your brain tells you where you are",
+       "value": 477290
+      },
+      {
+       "name": "Jean-Baptiste Michel: The mathematics of history",
+       "value": 411204
+      },
+      {
+       "name": "Danny Hillis: Back to the future (of 1994)",
+       "value": 323440
+      }
+     ]
+    },
+    {
+     "name": "Story & Women",
+     "children": [
+      {
+       "name": "Bren\u00e9 Brown: Listening to shame",
+       "value": 1293973
+      },
+      {
+       "name": "Bryan Stevenson: We need to talk about an injustice",
+       "value": 807428
+      },
+      {
+       "name": "Peter van Uhm: Why I chose a gun",
+       "value": 720629
+      },
+      {
+       "name": "Neil MacGregor: 2600 years of history in one object",
+       "value": 512571
+      },
+      {
+       "name": "Tan Le: My immigration story",
+       "value": 477665
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

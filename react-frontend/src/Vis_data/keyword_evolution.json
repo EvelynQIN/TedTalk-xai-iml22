@@ -1,0 +1,2818 @@
+{
+ "Music & Creativity": [
+  {
+   "year": 2006,
+   "keyword": "music",
+   "probability": 0.008795150254896323
+  },
+  {
+   "year": 2006,
+   "keyword": "play",
+   "probability": 0.00832138072406673
+  },
+  {
+   "year": 2006,
+   "keyword": "book",
+   "probability": 0.0064928073129440845
+  },
+  {
+   "year": 2006,
+   "keyword": "sort",
+   "probability": 0.005885291252142276
+  },
+  {
+   "year": 2006,
+   "keyword": "sound",
+   "probability": 0.005529104209589432
+  },
+  {
+   "year": 2006,
+   "keyword": "idea",
+   "probability": 0.004592449009406055
+  },
+  {
+   "year": 2006,
+   "keyword": "hear",
+   "probability": 0.003970613460096059
+  },
+  {
+   "year": 2006,
+   "keyword": "video",
+   "probability": 0.003887247009807572
+  },
+  {
+   "year": 2006,
+   "keyword": "piec",
+   "probability": 0.003752399463751309
+  },
+  {
+   "year": 2006,
+   "keyword": "song",
+   "probability": 0.0037431799545034256
+  },
+  {
+   "year": 2007,
+   "keyword": "music",
+   "probability": 0.008995893022726716
+  },
+  {
+   "year": 2007,
+   "keyword": "play",
+   "probability": 0.009079354378710821
+  },
+  {
+   "year": 2007,
+   "keyword": "book",
+   "probability": 0.00601688504935313
+  },
+  {
+   "year": 2007,
+   "keyword": "sort",
+   "probability": 0.005754760452625138
+  },
+  {
+   "year": 2007,
+   "keyword": "sound",
+   "probability": 0.00569612177245988
+  },
+  {
+   "year": 2007,
+   "keyword": "idea",
+   "probability": 0.004489038363604424
+  },
+  {
+   "year": 2007,
+   "keyword": "hear",
+   "probability": 0.004072072899397781
+  },
+  {
+   "year": 2007,
+   "keyword": "video",
+   "probability": 0.004091064842598922
+  },
+  {
+   "year": 2007,
+   "keyword": "piec",
+   "probability": 0.003682244172247238
+  },
+  {
+   "year": 2007,
+   "keyword": "song",
+   "probability": 0.003815180537216139
+  },
+  {
+   "year": 2008,
+   "keyword": "music",
+   "probability": 0.009337423894379323
+  },
+  {
+   "year": 2008,
+   "keyword": "play",
+   "probability": 0.010534867343905085
+  },
+  {
+   "year": 2008,
+   "keyword": "book",
+   "probability": 0.005676022995690027
+  },
+  {
+   "year": 2008,
+   "keyword": "sort",
+   "probability": 0.005140615850806994
+  },
+  {
+   "year": 2008,
+   "keyword": "sound",
+   "probability": 0.005992559197269364
+  },
+  {
+   "year": 2008,
+   "keyword": "idea",
+   "probability": 0.004420207270394681
+  },
+  {
+   "year": 2008,
+   "keyword": "hear",
+   "probability": 0.00426352122919702
+  },
+  {
+   "year": 2008,
+   "keyword": "video",
+   "probability": 0.004508376755346426
+  },
+  {
+   "year": 2008,
+   "keyword": "piec",
+   "probability": 0.003499786244622433
+  },
+  {
+   "year": 2008,
+   "keyword": "song",
+   "probability": 0.0031972587159881578
+  },
+  {
+   "year": 2009,
+   "keyword": "music",
+   "probability": 0.009816197194460646
+  },
+  {
+   "year": 2009,
+   "keyword": "play",
+   "probability": 0.011280036204625745
+  },
+  {
+   "year": 2009,
+   "keyword": "book",
+   "probability": 0.005339995493424896
+  },
+  {
+   "year": 2009,
+   "keyword": "sort",
+   "probability": 0.004626796500772013
+  },
+  {
+   "year": 2009,
+   "keyword": "sound",
+   "probability": 0.006426320864826834
+  },
+  {
+   "year": 2009,
+   "keyword": "idea",
+   "probability": 0.00421667153138391
+  },
+  {
+   "year": 2009,
+   "keyword": "hear",
+   "probability": 0.0045477217737145935
+  },
+  {
+   "year": 2009,
+   "keyword": "video",
+   "probability": 0.005119163000447389
+  },
+  {
+   "year": 2009,
+   "keyword": "piec",
+   "probability": 0.0031626023577319886
+  },
+  {
+   "year": 2009,
+   "keyword": "song",
+   "probability": 0.003023181364940081
+  },
+  {
+   "year": 2010,
+   "keyword": "music",
+   "probability": 0.01032604294685335
+  },
+  {
+   "year": 2010,
+   "keyword": "play",
+   "probability": 0.011042220631347922
+  },
+  {
+   "year": 2010,
+   "keyword": "book",
+   "probability": 0.005290196192399237
+  },
+  {
+   "year": 2010,
+   "keyword": "sort",
+   "probability": 0.003873131609821231
+  },
+  {
+   "year": 2010,
+   "keyword": "sound",
+   "probability": 0.006871869778903968
+  },
+  {
+   "year": 2010,
+   "keyword": "idea",
+   "probability": 0.003896770304056894
+  },
+  {
+   "year": 2010,
+   "keyword": "hear",
+   "probability": 0.004843502187858039
+  },
+  {
+   "year": 2010,
+   "keyword": "video",
+   "probability": 0.005830480544231475
+  },
+  {
+   "year": 2010,
+   "keyword": "piec",
+   "probability": 0.0030554503264362187
+  },
+  {
+   "year": 2010,
+   "keyword": "song",
+   "probability": 0.0031848777788539948
+  },
+  {
+   "year": 2011,
+   "keyword": "music",
+   "probability": 0.010726358146560611
+  },
+  {
+   "year": 2011,
+   "keyword": "play",
+   "probability": 0.010503863618085321
+  },
+  {
+   "year": 2011,
+   "keyword": "book",
+   "probability": 0.00592753824925682
+  },
+  {
+   "year": 2011,
+   "keyword": "sort",
+   "probability": 0.003300302087378127
+  },
+  {
+   "year": 2011,
+   "keyword": "sound",
+   "probability": 0.007251515124196804
+  },
+  {
+   "year": 2011,
+   "keyword": "idea",
+   "probability": 0.0038278371373088077
+  },
+  {
+   "year": 2011,
+   "keyword": "hear",
+   "probability": 0.005094481999368134
+  },
+  {
+   "year": 2011,
+   "keyword": "video",
+   "probability": 0.006445968180532511
+  },
+  {
+   "year": 2011,
+   "keyword": "piec",
+   "probability": 0.0032031743890759616
+  },
+  {
+   "year": 2011,
+   "keyword": "song",
+   "probability": 0.003137773945003722
+  },
+  {
+   "year": 2012,
+   "keyword": "music",
+   "probability": 0.01095412980858454
+  },
+  {
+   "year": 2012,
+   "keyword": "play",
+   "probability": 0.009758509465584552
+  },
+  {
+   "year": 2012,
+   "keyword": "book",
+   "probability": 0.0063461737140576
+  },
+  {
+   "year": 2012,
+   "keyword": "sort",
+   "probability": 0.0031153402178489527
+  },
+  {
+   "year": 2012,
+   "keyword": "sound",
+   "probability": 0.007468194012385739
+  },
+  {
+   "year": 2012,
+   "keyword": "idea",
+   "probability": 0.0038438950109582347
+  },
+  {
+   "year": 2012,
+   "keyword": "hear",
+   "probability": 0.005224452852874653
+  },
+  {
+   "year": 2012,
+   "keyword": "video",
+   "probability": 0.0067970476836058565
+  },
+  {
+   "year": 2012,
+   "keyword": "piec",
+   "probability": 0.0033379017521057075
+  },
+  {
+   "year": 2012,
+   "keyword": "song",
+   "probability": 0.003231923597311337
+  }
+ ],
+ "Happiness": [
+  {
+   "year": 2006,
+   "keyword": "social",
+   "probability": 0.003933334528547635
+  },
+  {
+   "year": 2006,
+   "keyword": "countri",
+   "probability": 0.004195143814179093
+  },
+  {
+   "year": 2006,
+   "keyword": "govern",
+   "probability": 0.0029537526547678515
+  },
+  {
+   "year": 2006,
+   "keyword": "polit",
+   "probability": 0.0031874795867513077
+  },
+  {
+   "year": 2006,
+   "keyword": "choic",
+   "probability": 0.005314621716522541
+  },
+  {
+   "year": 2006,
+   "keyword": "societi",
+   "probability": 0.003778675202836956
+  },
+  {
+   "year": 2006,
+   "keyword": "idea",
+   "probability": 0.00485570175109517
+  },
+  {
+   "year": 2006,
+   "keyword": "state",
+   "probability": 0.003837129360426551
+  },
+  {
+   "year": 2006,
+   "keyword": "question",
+   "probability": 0.0038288002732711542
+  },
+  {
+   "year": 2006,
+   "keyword": "exampl",
+   "probability": 0.0033738436117584716
+  },
+  {
+   "year": 2007,
+   "keyword": "social",
+   "probability": 0.004123785262478259
+  },
+  {
+   "year": 2007,
+   "keyword": "countri",
+   "probability": 0.003999416442851139
+  },
+  {
+   "year": 2007,
+   "keyword": "govern",
+   "probability": 0.0031070120655174523
+  },
+  {
+   "year": 2007,
+   "keyword": "polit",
+   "probability": 0.0033430138907985215
+  },
+  {
+   "year": 2007,
+   "keyword": "choic",
+   "probability": 0.0044905482508341065
+  },
+  {
+   "year": 2007,
+   "keyword": "societi",
+   "probability": 0.004030142882562137
+  },
+  {
+   "year": 2007,
+   "keyword": "idea",
+   "probability": 0.0051085607099863916
+  },
+  {
+   "year": 2007,
+   "keyword": "state",
+   "probability": 0.00391455806788308
+  },
+  {
+   "year": 2007,
+   "keyword": "question",
+   "probability": 0.003809002372611905
+  },
+  {
+   "year": 2007,
+   "keyword": "exampl",
+   "probability": 0.0034464947233365886
+  },
+  {
+   "year": 2008,
+   "keyword": "social",
+   "probability": 0.004452993438173888
+  },
+  {
+   "year": 2008,
+   "keyword": "countri",
+   "probability": 0.003768197177422365
+  },
+  {
+   "year": 2008,
+   "keyword": "govern",
+   "probability": 0.003391718291258561
+  },
+  {
+   "year": 2008,
+   "keyword": "polit",
+   "probability": 0.0035767631820257835
+  },
+  {
+   "year": 2008,
+   "keyword": "choic",
+   "probability": 0.004054286748235268
+  },
+  {
+   "year": 2008,
+   "keyword": "societi",
+   "probability": 0.004354067063897479
+  },
+  {
+   "year": 2008,
+   "keyword": "idea",
+   "probability": 0.004994267202041075
+  },
+  {
+   "year": 2008,
+   "keyword": "state",
+   "probability": 0.004016891646215762
+  },
+  {
+   "year": 2008,
+   "keyword": "question",
+   "probability": 0.0039229109965120005
+  },
+  {
+   "year": 2008,
+   "keyword": "exampl",
+   "probability": 0.0035609392994617062
+  },
+  {
+   "year": 2009,
+   "keyword": "social",
+   "probability": 0.004886628978257051
+  },
+  {
+   "year": 2009,
+   "keyword": "countri",
+   "probability": 0.003986810092968074
+  },
+  {
+   "year": 2009,
+   "keyword": "govern",
+   "probability": 0.0038439274314895308
+  },
+  {
+   "year": 2009,
+   "keyword": "polit",
+   "probability": 0.00388842588447885
+  },
+  {
+   "year": 2009,
+   "keyword": "choic",
+   "probability": 0.004275422971442468
+  },
+  {
+   "year": 2009,
+   "keyword": "societi",
+   "probability": 0.004389449823171197
+  },
+  {
+   "year": 2009,
+   "keyword": "idea",
+   "probability": 0.00512630095471745
+  },
+  {
+   "year": 2009,
+   "keyword": "state",
+   "probability": 0.0041449312819010495
+  },
+  {
+   "year": 2009,
+   "keyword": "question",
+   "probability": 0.0039935317055669484
+  },
+  {
+   "year": 2009,
+   "keyword": "exampl",
+   "probability": 0.003700750390319691
+  },
+  {
+   "year": 2010,
+   "keyword": "social",
+   "probability": 0.005322237812769786
+  },
+  {
+   "year": 2010,
+   "keyword": "countri",
+   "probability": 0.004363501060867292
+  },
+  {
+   "year": 2010,
+   "keyword": "govern",
+   "probability": 0.004414360703519146
+  },
+  {
+   "year": 2010,
+   "keyword": "polit",
+   "probability": 0.004296036389741235
+  },
+  {
+   "year": 2010,
+   "keyword": "choic",
+   "probability": 0.005105026305796134
+  },
+  {
+   "year": 2010,
+   "keyword": "societi",
+   "probability": 0.00440092441695695
+  },
+  {
+   "year": 2010,
+   "keyword": "idea",
+   "probability": 0.004541913251223291
+  },
+  {
+   "year": 2010,
+   "keyword": "state",
+   "probability": 0.004277543539773408
+  },
+  {
+   "year": 2010,
+   "keyword": "question",
+   "probability": 0.0042200450750627255
+  },
+  {
+   "year": 2010,
+   "keyword": "exampl",
+   "probability": 0.003842673582863769
+  },
+  {
+   "year": 2011,
+   "keyword": "social",
+   "probability": 0.005636238752053526
+  },
+  {
+   "year": 2011,
+   "keyword": "countri",
+   "probability": 0.005179451771561007
+  },
+  {
+   "year": 2011,
+   "keyword": "govern",
+   "probability": 0.004956325248959991
+  },
+  {
+   "year": 2011,
+   "keyword": "polit",
+   "probability": 0.004764164821630152
+  },
+  {
+   "year": 2011,
+   "keyword": "choic",
+   "probability": 0.0050337475152708476
+  },
+  {
+   "year": 2011,
+   "keyword": "societi",
+   "probability": 0.004696058291559288
+  },
+  {
+   "year": 2011,
+   "keyword": "idea",
+   "probability": 0.004533050237111989
+  },
+  {
+   "year": 2011,
+   "keyword": "state",
+   "probability": 0.004395466397879973
+  },
+  {
+   "year": 2011,
+   "keyword": "question",
+   "probability": 0.00423221819513521
+  },
+  {
+   "year": 2011,
+   "keyword": "exampl",
+   "probability": 0.003949745418859027
+  },
+  {
+   "year": 2012,
+   "keyword": "social",
+   "probability": 0.005774217813199202
+  },
+  {
+   "year": 2012,
+   "keyword": "countri",
+   "probability": 0.005448355076058306
+  },
+  {
+   "year": 2012,
+   "keyword": "govern",
+   "probability": 0.005342562492100596
+  },
+  {
+   "year": 2012,
+   "keyword": "polit",
+   "probability": 0.005063847329694141
+  },
+  {
+   "year": 2012,
+   "keyword": "choic",
+   "probability": 0.005043864199495956
+  },
+  {
+   "year": 2012,
+   "keyword": "societi",
+   "probability": 0.004601343912930966
+  },
+  {
+   "year": 2012,
+   "keyword": "idea",
+   "probability": 0.0044686027269572005
+  },
+  {
+   "year": 2012,
+   "keyword": "state",
+   "probability": 0.004449872150386477
+  },
+  {
+   "year": 2012,
+   "keyword": "question",
+   "probability": 0.004197810171423967
+  },
+  {
+   "year": 2012,
+   "keyword": "exampl",
+   "probability": 0.00401320032102164
+  }
+ ],
+ "Medicine": [
+  {
+   "year": 2006,
+   "keyword": "cell",
+   "probability": 0.014886390924745412
+  },
+  {
+   "year": 2006,
+   "keyword": "cancer",
+   "probability": 0.007638414820771191
+  },
+  {
+   "year": 2006,
+   "keyword": "patient",
+   "probability": 0.010202902082072222
+  },
+  {
+   "year": 2006,
+   "keyword": "bodi",
+   "probability": 0.006430834106406598
+  },
+  {
+   "year": 2006,
+   "keyword": "diseas",
+   "probability": 0.013486803126880494
+  },
+  {
+   "year": 2006,
+   "keyword": "medic",
+   "probability": 0.004161372275277345
+  },
+  {
+   "year": 2006,
+   "keyword": "health",
+   "probability": 0.003793484166529901
+  },
+  {
+   "year": 2006,
+   "keyword": "brain",
+   "probability": 0.010248064762848699
+  },
+  {
+   "year": 2006,
+   "keyword": "doctor",
+   "probability": 0.003062297982098415
+  },
+  {
+   "year": 2006,
+   "keyword": "drug",
+   "probability": 0.0028948345015824065
+  },
+  {
+   "year": 2007,
+   "keyword": "cell",
+   "probability": 0.013773168494231118
+  },
+  {
+   "year": 2007,
+   "keyword": "cancer",
+   "probability": 0.007826784293730347
+  },
+  {
+   "year": 2007,
+   "keyword": "patient",
+   "probability": 0.009924761346046865
+  },
+  {
+   "year": 2007,
+   "keyword": "bodi",
+   "probability": 0.006396455563003783
+  },
+  {
+   "year": 2007,
+   "keyword": "diseas",
+   "probability": 0.011439839136851846
+  },
+  {
+   "year": 2007,
+   "keyword": "medic",
+   "probability": 0.003962014350577294
+  },
+  {
+   "year": 2007,
+   "keyword": "health",
+   "probability": 0.0039040230050978245
+  },
+  {
+   "year": 2007,
+   "keyword": "brain",
+   "probability": 0.010132550413398353
+  },
+  {
+   "year": 2007,
+   "keyword": "doctor",
+   "probability": 0.0031694089334720543
+  },
+  {
+   "year": 2007,
+   "keyword": "drug",
+   "probability": 0.0030539204044745393
+  },
+  {
+   "year": 2008,
+   "keyword": "cell",
+   "probability": 0.012402398373219289
+  },
+  {
+   "year": 2008,
+   "keyword": "cancer",
+   "probability": 0.00832164635618258
+  },
+  {
+   "year": 2008,
+   "keyword": "patient",
+   "probability": 0.009252438620657949
+  },
+  {
+   "year": 2008,
+   "keyword": "bodi",
+   "probability": 0.006467355758725923
+  },
+  {
+   "year": 2008,
+   "keyword": "diseas",
+   "probability": 0.009483147493828482
+  },
+  {
+   "year": 2008,
+   "keyword": "medic",
+   "probability": 0.003929667981580539
+  },
+  {
+   "year": 2008,
+   "keyword": "health",
+   "probability": 0.00410702428055686
+  },
+  {
+   "year": 2008,
+   "keyword": "brain",
+   "probability": 0.009164783595804646
+  },
+  {
+   "year": 2008,
+   "keyword": "doctor",
+   "probability": 0.0033883447257692543
+  },
+  {
+   "year": 2008,
+   "keyword": "drug",
+   "probability": 0.003401674045199849
+  },
+  {
+   "year": 2009,
+   "keyword": "cell",
+   "probability": 0.013891933567920102
+  },
+  {
+   "year": 2009,
+   "keyword": "cancer",
+   "probability": 0.00912943866951893
+  },
+  {
+   "year": 2009,
+   "keyword": "patient",
+   "probability": 0.009588282728289875
+  },
+  {
+   "year": 2009,
+   "keyword": "bodi",
+   "probability": 0.007181754668368371
+  },
+  {
+   "year": 2009,
+   "keyword": "diseas",
+   "probability": 0.007962965829357866
+  },
+  {
+   "year": 2009,
+   "keyword": "medic",
+   "probability": 0.004064539538526414
+  },
+  {
+   "year": 2009,
+   "keyword": "health",
+   "probability": 0.004360034858408393
+  },
+  {
+   "year": 2009,
+   "keyword": "brain",
+   "probability": 0.007538229422492121
+  },
+  {
+   "year": 2009,
+   "keyword": "doctor",
+   "probability": 0.00369323298295561
+  },
+  {
+   "year": 2009,
+   "keyword": "drug",
+   "probability": 0.003843776823038353
+  },
+  {
+   "year": 2010,
+   "keyword": "cell",
+   "probability": 0.015924176539154625
+  },
+  {
+   "year": 2010,
+   "keyword": "cancer",
+   "probability": 0.01016145080989066
+  },
+  {
+   "year": 2010,
+   "keyword": "patient",
+   "probability": 0.01057014646809156
+  },
+  {
+   "year": 2010,
+   "keyword": "bodi",
+   "probability": 0.008192754519972005
+  },
+  {
+   "year": 2010,
+   "keyword": "diseas",
+   "probability": 0.007358313123070957
+  },
+  {
+   "year": 2010,
+   "keyword": "medic",
+   "probability": 0.004248004217831365
+  },
+  {
+   "year": 2010,
+   "keyword": "health",
+   "probability": 0.004631061955698907
+  },
+  {
+   "year": 2010,
+   "keyword": "brain",
+   "probability": 0.00635237188996246
+  },
+  {
+   "year": 2010,
+   "keyword": "doctor",
+   "probability": 0.004030838145837302
+  },
+  {
+   "year": 2010,
+   "keyword": "drug",
+   "probability": 0.0043173062213238455
+  },
+  {
+   "year": 2011,
+   "keyword": "cell",
+   "probability": 0.017242807048842915
+  },
+  {
+   "year": 2011,
+   "keyword": "cancer",
+   "probability": 0.011129328533516473
+  },
+  {
+   "year": 2011,
+   "keyword": "patient",
+   "probability": 0.011039758226403016
+  },
+  {
+   "year": 2011,
+   "keyword": "bodi",
+   "probability": 0.008723202653648614
+  },
+  {
+   "year": 2011,
+   "keyword": "diseas",
+   "probability": 0.007294814225431868
+  },
+  {
+   "year": 2011,
+   "keyword": "medic",
+   "probability": 0.004509540586107092
+  },
+  {
+   "year": 2011,
+   "keyword": "health",
+   "probability": 0.0048911784990401976
+  },
+  {
+   "year": 2011,
+   "keyword": "brain",
+   "probability": 0.005422004994559814
+  },
+  {
+   "year": 2011,
+   "keyword": "doctor",
+   "probability": 0.004332852158044272
+  },
+  {
+   "year": 2011,
+   "keyword": "drug",
+   "probability": 0.004529586076124753
+  },
+  {
+   "year": 2012,
+   "keyword": "cell",
+   "probability": 0.01734123189225383
+  },
+  {
+   "year": 2012,
+   "keyword": "cancer",
+   "probability": 0.011667280552913818
+  },
+  {
+   "year": 2012,
+   "keyword": "patient",
+   "probability": 0.011207790126355605
+  },
+  {
+   "year": 2012,
+   "keyword": "bodi",
+   "probability": 0.008321301728862075
+  },
+  {
+   "year": 2012,
+   "keyword": "diseas",
+   "probability": 0.007876034287141148
+  },
+  {
+   "year": 2012,
+   "keyword": "medic",
+   "probability": 0.005202678451215507
+  },
+  {
+   "year": 2012,
+   "keyword": "health",
+   "probability": 0.005068785617799026
+  },
+  {
+   "year": 2012,
+   "keyword": "brain",
+   "probability": 0.004806615888691942
+  },
+  {
+   "year": 2012,
+   "keyword": "doctor",
+   "probability": 0.004526540254026443
+  },
+  {
+   "year": 2012,
+   "keyword": "drug",
+   "probability": 0.004418458600442868
+  }
+ ],
+ "Development": [
+  {
+   "year": 2006,
+   "keyword": "percent",
+   "probability": 0.008361934410222918
+  },
+  {
+   "year": 2006,
+   "keyword": "school",
+   "probability": 0.004629557999626563
+  },
+  {
+   "year": 2006,
+   "keyword": "food",
+   "probability": 0.004132063581161623
+  },
+  {
+   "year": 2006,
+   "keyword": "countri",
+   "probability": 0.011320604333239007
+  },
+  {
+   "year": 2006,
+   "keyword": "problem",
+   "probability": 0.006468087209391146
+  },
+  {
+   "year": 2006,
+   "keyword": "dollar",
+   "probability": 0.007611573452537298
+  },
+  {
+   "year": 2006,
+   "keyword": "kid",
+   "probability": 0.003900355502740707
+  },
+  {
+   "year": 2006,
+   "keyword": "citi",
+   "probability": 0.004205795421808328
+  },
+  {
+   "year": 2006,
+   "keyword": "cost",
+   "probability": 0.0034144183803400435
+  },
+  {
+   "year": 2006,
+   "keyword": "children",
+   "probability": 0.0035419432515884355
+  },
+  {
+   "year": 2007,
+   "keyword": "percent",
+   "probability": 0.008486308370635617
+  },
+  {
+   "year": 2007,
+   "keyword": "school",
+   "probability": 0.004890766557306283
+  },
+  {
+   "year": 2007,
+   "keyword": "food",
+   "probability": 0.005028225049476975
+  },
+  {
+   "year": 2007,
+   "keyword": "countri",
+   "probability": 0.01056373674252746
+  },
+  {
+   "year": 2007,
+   "keyword": "problem",
+   "probability": 0.006140666988712758
+  },
+  {
+   "year": 2007,
+   "keyword": "dollar",
+   "probability": 0.00737195495652984
+  },
+  {
+   "year": 2007,
+   "keyword": "kid",
+   "probability": 0.004061197930501624
+  },
+  {
+   "year": 2007,
+   "keyword": "citi",
+   "probability": 0.00443647909825392
+  },
+  {
+   "year": 2007,
+   "keyword": "cost",
+   "probability": 0.0033338539615050808
+  },
+  {
+   "year": 2007,
+   "keyword": "children",
+   "probability": 0.0036551234681800686
+  },
+  {
+   "year": 2008,
+   "keyword": "percent",
+   "probability": 0.008696133141220757
+  },
+  {
+   "year": 2008,
+   "keyword": "school",
+   "probability": 0.00540650618055985
+  },
+  {
+   "year": 2008,
+   "keyword": "food",
+   "probability": 0.006761866495234577
+  },
+  {
+   "year": 2008,
+   "keyword": "countri",
+   "probability": 0.009510380579768296
+  },
+  {
+   "year": 2008,
+   "keyword": "problem",
+   "probability": 0.0057677854351806225
+  },
+  {
+   "year": 2008,
+   "keyword": "dollar",
+   "probability": 0.006950409929346767
+  },
+  {
+   "year": 2008,
+   "keyword": "kid",
+   "probability": 0.004367264680109677
+  },
+  {
+   "year": 2008,
+   "keyword": "citi",
+   "probability": 0.004354381125447472
+  },
+  {
+   "year": 2008,
+   "keyword": "cost",
+   "probability": 0.003498295223751598
+  },
+  {
+   "year": 2008,
+   "keyword": "children",
+   "probability": 0.003863419300016757
+  },
+  {
+   "year": 2009,
+   "keyword": "percent",
+   "probability": 0.008979444160823028
+  },
+  {
+   "year": 2009,
+   "keyword": "school",
+   "probability": 0.006008838037733169
+  },
+  {
+   "year": 2009,
+   "keyword": "food",
+   "probability": 0.007270215762609698
+  },
+  {
+   "year": 2009,
+   "keyword": "countri",
+   "probability": 0.008528819987171943
+  },
+  {
+   "year": 2009,
+   "keyword": "problem",
+   "probability": 0.0061870470306067
+  },
+  {
+   "year": 2009,
+   "keyword": "dollar",
+   "probability": 0.005967462835428861
+  },
+  {
+   "year": 2009,
+   "keyword": "kid",
+   "probability": 0.004669316811844472
+  },
+  {
+   "year": 2009,
+   "keyword": "citi",
+   "probability": 0.004564461543416902
+  },
+  {
+   "year": 2009,
+   "keyword": "cost",
+   "probability": 0.0036029360245150126
+  },
+  {
+   "year": 2009,
+   "keyword": "children",
+   "probability": 0.004076888500071085
+  },
+  {
+   "year": 2010,
+   "keyword": "percent",
+   "probability": 0.009084589149588939
+  },
+  {
+   "year": 2010,
+   "keyword": "school",
+   "probability": 0.006662542130187531
+  },
+  {
+   "year": 2010,
+   "keyword": "food",
+   "probability": 0.007787101896780337
+  },
+  {
+   "year": 2010,
+   "keyword": "countri",
+   "probability": 0.007573808350084796
+  },
+  {
+   "year": 2010,
+   "keyword": "problem",
+   "probability": 0.0064935949564451445
+  },
+  {
+   "year": 2010,
+   "keyword": "dollar",
+   "probability": 0.005786106312205481
+  },
+  {
+   "year": 2010,
+   "keyword": "kid",
+   "probability": 0.005014482720049509
+  },
+  {
+   "year": 2010,
+   "keyword": "citi",
+   "probability": 0.0044485762755455596
+  },
+  {
+   "year": 2010,
+   "keyword": "cost",
+   "probability": 0.0040080888890644244
+  },
+  {
+   "year": 2010,
+   "keyword": "children",
+   "probability": 0.004323714240403953
+  },
+  {
+   "year": 2011,
+   "keyword": "percent",
+   "probability": 0.009186771130694703
+  },
+  {
+   "year": 2011,
+   "keyword": "school",
+   "probability": 0.007127783847325479
+  },
+  {
+   "year": 2011,
+   "keyword": "food",
+   "probability": 0.007753228758318813
+  },
+  {
+   "year": 2011,
+   "keyword": "countri",
+   "probability": 0.006852663463378342
+  },
+  {
+   "year": 2011,
+   "keyword": "problem",
+   "probability": 0.006342721471270927
+  },
+  {
+   "year": 2011,
+   "keyword": "dollar",
+   "probability": 0.005845733128906162
+  },
+  {
+   "year": 2011,
+   "keyword": "kid",
+   "probability": 0.005282109437109499
+  },
+  {
+   "year": 2011,
+   "keyword": "citi",
+   "probability": 0.00495867142865053
+  },
+  {
+   "year": 2011,
+   "keyword": "cost",
+   "probability": 0.004515110621555485
+  },
+  {
+   "year": 2011,
+   "keyword": "children",
+   "probability": 0.0045168811908217
+  },
+  {
+   "year": 2012,
+   "keyword": "percent",
+   "probability": 0.009279488603718506
+  },
+  {
+   "year": 2012,
+   "keyword": "school",
+   "probability": 0.007358862515182995
+  },
+  {
+   "year": 2012,
+   "keyword": "food",
+   "probability": 0.0072781993281451135
+  },
+  {
+   "year": 2012,
+   "keyword": "countri",
+   "probability": 0.006457179260412964
+  },
+  {
+   "year": 2012,
+   "keyword": "problem",
+   "probability": 0.006380465657285031
+  },
+  {
+   "year": 2012,
+   "keyword": "dollar",
+   "probability": 0.006111875598894908
+  },
+  {
+   "year": 2012,
+   "keyword": "kid",
+   "probability": 0.005458905901526533
+  },
+  {
+   "year": 2012,
+   "keyword": "citi",
+   "probability": 0.005372156280064208
+  },
+  {
+   "year": 2012,
+   "keyword": "cost",
+   "probability": 0.005009037204069218
+  },
+  {
+   "year": 2012,
+   "keyword": "children",
+   "probability": 0.004611752778535209
+  }
+ ],
+ "Environment": [
+  {
+   "year": 2006,
+   "keyword": "water",
+   "probability": 0.007814236325173095
+  },
+  {
+   "year": 2006,
+   "keyword": "ocean",
+   "probability": 0.005588959170416425
+  },
+  {
+   "year": 2006,
+   "keyword": "planet",
+   "probability": 0.00843384470783957
+  },
+  {
+   "year": 2006,
+   "keyword": "earth",
+   "probability": 0.009736661264651905
+  },
+  {
+   "year": 2006,
+   "keyword": "anim",
+   "probability": 0.006366104367222025
+  },
+  {
+   "year": 2006,
+   "keyword": "natur",
+   "probability": 0.0049294475824247005
+  },
+  {
+   "year": 2006,
+   "keyword": "energi",
+   "probability": 0.003115229769480619
+  },
+  {
+   "year": 2006,
+   "keyword": "fish",
+   "probability": 0.00351722383765348
+  },
+  {
+   "year": 2006,
+   "keyword": "system",
+   "probability": 0.004490128443093164
+  },
+  {
+   "year": 2006,
+   "keyword": "speci",
+   "probability": 0.00690522118085534
+  },
+  {
+   "year": 2007,
+   "keyword": "water",
+   "probability": 0.008089082709462679
+  },
+  {
+   "year": 2007,
+   "keyword": "ocean",
+   "probability": 0.005853212230266908
+  },
+  {
+   "year": 2007,
+   "keyword": "planet",
+   "probability": 0.008395139225515555
+  },
+  {
+   "year": 2007,
+   "keyword": "earth",
+   "probability": 0.00933644472462746
+  },
+  {
+   "year": 2007,
+   "keyword": "anim",
+   "probability": 0.006665591185112364
+  },
+  {
+   "year": 2007,
+   "keyword": "natur",
+   "probability": 0.004988274909844826
+  },
+  {
+   "year": 2007,
+   "keyword": "energi",
+   "probability": 0.0030596201416715476
+  },
+  {
+   "year": 2007,
+   "keyword": "fish",
+   "probability": 0.0036621738226476465
+  },
+  {
+   "year": 2007,
+   "keyword": "system",
+   "probability": 0.004599682542693105
+  },
+  {
+   "year": 2007,
+   "keyword": "speci",
+   "probability": 0.006704082221080359
+  },
+  {
+   "year": 2008,
+   "keyword": "water",
+   "probability": 0.008640408429598997
+  },
+  {
+   "year": 2008,
+   "keyword": "ocean",
+   "probability": 0.006406447322188152
+  },
+  {
+   "year": 2008,
+   "keyword": "planet",
+   "probability": 0.008273114491810054
+  },
+  {
+   "year": 2008,
+   "keyword": "earth",
+   "probability": 0.00871031878990252
+  },
+  {
+   "year": 2008,
+   "keyword": "anim",
+   "probability": 0.006474906970390483
+  },
+  {
+   "year": 2008,
+   "keyword": "natur",
+   "probability": 0.005118104491361851
+  },
+  {
+   "year": 2008,
+   "keyword": "energi",
+   "probability": 0.0030268063294858418
+  },
+  {
+   "year": 2008,
+   "keyword": "fish",
+   "probability": 0.004016610767792176
+  },
+  {
+   "year": 2008,
+   "keyword": "system",
+   "probability": 0.004273559724765686
+  },
+  {
+   "year": 2008,
+   "keyword": "speci",
+   "probability": 0.0062543419326410695
+  },
+  {
+   "year": 2009,
+   "keyword": "water",
+   "probability": 0.00947669587326852
+  },
+  {
+   "year": 2009,
+   "keyword": "ocean",
+   "probability": 0.007173660799384027
+  },
+  {
+   "year": 2009,
+   "keyword": "planet",
+   "probability": 0.008086549223898632
+  },
+  {
+   "year": 2009,
+   "keyword": "earth",
+   "probability": 0.007730656040206653
+  },
+  {
+   "year": 2009,
+   "keyword": "anim",
+   "probability": 0.006082922113527367
+  },
+  {
+   "year": 2009,
+   "keyword": "natur",
+   "probability": 0.005228383991035529
+  },
+  {
+   "year": 2009,
+   "keyword": "energi",
+   "probability": 0.0033208660204791193
+  },
+  {
+   "year": 2009,
+   "keyword": "fish",
+   "probability": 0.004669001033260162
+  },
+  {
+   "year": 2009,
+   "keyword": "system",
+   "probability": 0.004439981276380386
+  },
+  {
+   "year": 2009,
+   "keyword": "speci",
+   "probability": 0.005647944884093582
+  },
+  {
+   "year": 2010,
+   "keyword": "water",
+   "probability": 0.010334381642143469
+  },
+  {
+   "year": 2010,
+   "keyword": "ocean",
+   "probability": 0.008008304159708674
+  },
+  {
+   "year": 2010,
+   "keyword": "planet",
+   "probability": 0.007906316713527926
+  },
+  {
+   "year": 2010,
+   "keyword": "earth",
+   "probability": 0.006921607583809508
+  },
+  {
+   "year": 2010,
+   "keyword": "anim",
+   "probability": 0.006800496866092054
+  },
+  {
+   "year": 2010,
+   "keyword": "natur",
+   "probability": 0.0052916899348517225
+  },
+  {
+   "year": 2010,
+   "keyword": "energi",
+   "probability": 0.00392419874973153
+  },
+  {
+   "year": 2010,
+   "keyword": "fish",
+   "probability": 0.005380355562195543
+  },
+  {
+   "year": 2010,
+   "keyword": "system",
+   "probability": 0.004601516097376255
+  },
+  {
+   "year": 2010,
+   "keyword": "speci",
+   "probability": 0.0051332453313644244
+  },
+  {
+   "year": 2011,
+   "keyword": "water",
+   "probability": 0.01117415530851365
+  },
+  {
+   "year": 2011,
+   "keyword": "ocean",
+   "probability": 0.008530733231227416
+  },
+  {
+   "year": 2011,
+   "keyword": "planet",
+   "probability": 0.007742594926314987
+  },
+  {
+   "year": 2011,
+   "keyword": "earth",
+   "probability": 0.006899140661276612
+  },
+  {
+   "year": 2011,
+   "keyword": "anim",
+   "probability": 0.006206287407790859
+  },
+  {
+   "year": 2011,
+   "keyword": "natur",
+   "probability": 0.005581413676190431
+  },
+  {
+   "year": 2011,
+   "keyword": "energi",
+   "probability": 0.004768039118152747
+  },
+  {
+   "year": 2011,
+   "keyword": "fish",
+   "probability": 0.005354216190992068
+  },
+  {
+   "year": 2011,
+   "keyword": "system",
+   "probability": 0.0048679737995517055
+  },
+  {
+   "year": 2011,
+   "keyword": "speci",
+   "probability": 0.004854929255654873
+  },
+  {
+   "year": 2012,
+   "keyword": "water",
+   "probability": 0.01169549982123585
+  },
+  {
+   "year": 2012,
+   "keyword": "ocean",
+   "probability": 0.00883912421251999
+  },
+  {
+   "year": 2012,
+   "keyword": "planet",
+   "probability": 0.007644582925803036
+  },
+  {
+   "year": 2012,
+   "keyword": "earth",
+   "probability": 0.007138145462974245
+  },
+  {
+   "year": 2012,
+   "keyword": "anim",
+   "probability": 0.006284313359944071
+  },
+  {
+   "year": 2012,
+   "keyword": "natur",
+   "probability": 0.0056819990504351535
+  },
+  {
+   "year": 2012,
+   "keyword": "energi",
+   "probability": 0.0054345320148758815
+  },
+  {
+   "year": 2012,
+   "keyword": "fish",
+   "probability": 0.005324023653945454
+  },
+  {
+   "year": 2012,
+   "keyword": "system",
+   "probability": 0.004959958177311877
+  },
+  {
+   "year": 2012,
+   "keyword": "speci",
+   "probability": 0.00472716955212715
+  }
+ ],
+ "Design": [
+  {
+   "year": 2006,
+   "keyword": "design",
+   "probability": 0.019361419922039706
+  },
+  {
+   "year": 2006,
+   "keyword": "light",
+   "probability": 0.0033361579767953735
+  },
+  {
+   "year": 2006,
+   "keyword": "build",
+   "probability": 0.011621683481559163
+  },
+  {
+   "year": 2006,
+   "keyword": "creat",
+   "probability": 0.005187106814186231
+  },
+  {
+   "year": 2006,
+   "keyword": "space",
+   "probability": 0.005224866006796422
+  },
+  {
+   "year": 2006,
+   "keyword": "project",
+   "probability": 0.004638550472084772
+  },
+  {
+   "year": 2006,
+   "keyword": "citi",
+   "probability": 0.004886489620972822
+  },
+  {
+   "year": 2006,
+   "keyword": "idea",
+   "probability": 0.00738451490079184
+  },
+  {
+   "year": 2006,
+   "keyword": "data",
+   "probability": 0.0016415234411870237
+  },
+  {
+   "year": 2006,
+   "keyword": "technolog",
+   "probability": 0.002741364063871005
+  },
+  {
+   "year": 2007,
+   "keyword": "design",
+   "probability": 0.0183926087427938
+  },
+  {
+   "year": 2007,
+   "keyword": "light",
+   "probability": 0.0038340320561050176
+  },
+  {
+   "year": 2007,
+   "keyword": "build",
+   "probability": 0.01196277427824749
+  },
+  {
+   "year": 2007,
+   "keyword": "creat",
+   "probability": 0.005311727894039367
+  },
+  {
+   "year": 2007,
+   "keyword": "space",
+   "probability": 0.005322092896432998
+  },
+  {
+   "year": 2007,
+   "keyword": "project",
+   "probability": 0.004677178422681475
+  },
+  {
+   "year": 2007,
+   "keyword": "citi",
+   "probability": 0.005097303616592707
+  },
+  {
+   "year": 2007,
+   "keyword": "idea",
+   "probability": 0.00682564960778427
+  },
+  {
+   "year": 2007,
+   "keyword": "data",
+   "probability": 0.0017646476149913149
+  },
+  {
+   "year": 2007,
+   "keyword": "technolog",
+   "probability": 0.002797138953595329
+  },
+  {
+   "year": 2008,
+   "keyword": "design",
+   "probability": 0.016378960242210465
+  },
+  {
+   "year": 2008,
+   "keyword": "light",
+   "probability": 0.004738110313801584
+  },
+  {
+   "year": 2008,
+   "keyword": "build",
+   "probability": 0.011389437771876048
+  },
+  {
+   "year": 2008,
+   "keyword": "creat",
+   "probability": 0.005557444442858469
+  },
+  {
+   "year": 2008,
+   "keyword": "space",
+   "probability": 0.005505786671767246
+  },
+  {
+   "year": 2008,
+   "keyword": "project",
+   "probability": 0.004822060079128277
+  },
+  {
+   "year": 2008,
+   "keyword": "citi",
+   "probability": 0.004717906583270812
+  },
+  {
+   "year": 2008,
+   "keyword": "idea",
+   "probability": 0.006119549195688311
+  },
+  {
+   "year": 2008,
+   "keyword": "data",
+   "probability": 0.002092517329825031
+  },
+  {
+   "year": 2008,
+   "keyword": "technolog",
+   "probability": 0.0029348572498865844
+  },
+  {
+   "year": 2009,
+   "keyword": "design",
+   "probability": 0.013911919309311752
+  },
+  {
+   "year": 2009,
+   "keyword": "light",
+   "probability": 0.005742926837228579
+  },
+  {
+   "year": 2009,
+   "keyword": "build",
+   "probability": 0.009205711016671054
+  },
+  {
+   "year": 2009,
+   "keyword": "creat",
+   "probability": 0.005909326790582321
+  },
+  {
+   "year": 2009,
+   "keyword": "space",
+   "probability": 0.005733410716396038
+  },
+  {
+   "year": 2009,
+   "keyword": "project",
+   "probability": 0.0050833626554187515
+  },
+  {
+   "year": 2009,
+   "keyword": "citi",
+   "probability": 0.004516347431221215
+  },
+  {
+   "year": 2009,
+   "keyword": "idea",
+   "probability": 0.005696856464496999
+  },
+  {
+   "year": 2009,
+   "keyword": "data",
+   "probability": 0.0027310509721750536
+  },
+  {
+   "year": 2009,
+   "keyword": "technolog",
+   "probability": 0.0031490074978626848
+  },
+  {
+   "year": 2010,
+   "keyword": "design",
+   "probability": 0.011797256114287164
+  },
+  {
+   "year": 2010,
+   "keyword": "light",
+   "probability": 0.007451941809443939
+  },
+  {
+   "year": 2010,
+   "keyword": "build",
+   "probability": 0.009317619878250452
+  },
+  {
+   "year": 2010,
+   "keyword": "creat",
+   "probability": 0.006269901319079309
+  },
+  {
+   "year": 2010,
+   "keyword": "space",
+   "probability": 0.005966923684069486
+  },
+  {
+   "year": 2010,
+   "keyword": "project",
+   "probability": 0.005447518599171149
+  },
+  {
+   "year": 2010,
+   "keyword": "citi",
+   "probability": 0.00428238022508477
+  },
+  {
+   "year": 2010,
+   "keyword": "idea",
+   "probability": 0.005261505339121467
+  },
+  {
+   "year": 2010,
+   "keyword": "data",
+   "probability": 0.0035390642303468724
+  },
+  {
+   "year": 2010,
+   "keyword": "technolog",
+   "probability": 0.0034455839157365837
+  },
+  {
+   "year": 2011,
+   "keyword": "design",
+   "probability": 0.01041581170511937
+  },
+  {
+   "year": 2011,
+   "keyword": "light",
+   "probability": 0.009589771784959032
+  },
+  {
+   "year": 2011,
+   "keyword": "build",
+   "probability": 0.009215832576104453
+  },
+  {
+   "year": 2011,
+   "keyword": "creat",
+   "probability": 0.006591649622764796
+  },
+  {
+   "year": 2011,
+   "keyword": "space",
+   "probability": 0.006189257989724507
+  },
+  {
+   "year": 2011,
+   "keyword": "project",
+   "probability": 0.005859309198039165
+  },
+  {
+   "year": 2011,
+   "keyword": "citi",
+   "probability": 0.004704131948312687
+  },
+  {
+   "year": 2011,
+   "keyword": "idea",
+   "probability": 0.004952416802310171
+  },
+  {
+   "year": 2011,
+   "keyword": "data",
+   "probability": 0.004271210980890367
+  },
+  {
+   "year": 2011,
+   "keyword": "technolog",
+   "probability": 0.003913090695815834
+  },
+  {
+   "year": 2012,
+   "keyword": "design",
+   "probability": 0.009890963996302375
+  },
+  {
+   "year": 2012,
+   "keyword": "light",
+   "probability": 0.009226116133685808
+  },
+  {
+   "year": 2012,
+   "keyword": "build",
+   "probability": 0.008710587397557028
+  },
+  {
+   "year": 2012,
+   "keyword": "creat",
+   "probability": 0.006815560014094984
+  },
+  {
+   "year": 2012,
+   "keyword": "space",
+   "probability": 0.0063396953541163484
+  },
+  {
+   "year": 2012,
+   "keyword": "project",
+   "probability": 0.0060620840761410645
+  },
+  {
+   "year": 2012,
+   "keyword": "citi",
+   "probability": 0.004973093850469122
+  },
+  {
+   "year": 2012,
+   "keyword": "idea",
+   "probability": 0.0048897413423018826
+  },
+  {
+   "year": 2012,
+   "keyword": "data",
+   "probability": 0.004662606278602382
+  },
+  {
+   "year": 2012,
+   "keyword": "technolog",
+   "probability": 0.004416955573643177
+  }
+ ],
+ "Tech": [
+  {
+   "year": 2006,
+   "keyword": "human",
+   "probability": 0.008316881347195326
+  },
+  {
+   "year": 2006,
+   "keyword": "brain",
+   "probability": 0.010306394724346921
+  },
+  {
+   "year": 2006,
+   "keyword": "univers",
+   "probability": 0.006446968614321113
+  },
+  {
+   "year": 2006,
+   "keyword": "comput",
+   "probability": 0.006399230110975198
+  },
+  {
+   "year": 2006,
+   "keyword": "technolog",
+   "probability": 0.008319702173929706
+  },
+  {
+   "year": 2006,
+   "keyword": "question",
+   "probability": 0.0048432383691278565
+  },
+  {
+   "year": 2006,
+   "keyword": "understand",
+   "probability": 0.0045607788702747695
+  },
+  {
+   "year": 2006,
+   "keyword": "learn",
+   "probability": 0.003168791650265702
+  },
+  {
+   "year": 2006,
+   "keyword": "robot",
+   "probability": 0.0035081457828086745
+  },
+  {
+   "year": 2006,
+   "keyword": "inform",
+   "probability": 0.0030614780652569546
+  },
+  {
+   "year": 2007,
+   "keyword": "human",
+   "probability": 0.007931313069233075
+  },
+  {
+   "year": 2007,
+   "keyword": "brain",
+   "probability": 0.010136499894414017
+  },
+  {
+   "year": 2007,
+   "keyword": "univers",
+   "probability": 0.006644763523776843
+  },
+  {
+   "year": 2007,
+   "keyword": "comput",
+   "probability": 0.006968697472801228
+  },
+  {
+   "year": 2007,
+   "keyword": "technolog",
+   "probability": 0.006432428180138065
+  },
+  {
+   "year": 2007,
+   "keyword": "question",
+   "probability": 0.004895706029964919
+  },
+  {
+   "year": 2007,
+   "keyword": "understand",
+   "probability": 0.0046808582897376345
+  },
+  {
+   "year": 2007,
+   "keyword": "learn",
+   "probability": 0.003303846163732741
+  },
+  {
+   "year": 2007,
+   "keyword": "robot",
+   "probability": 0.003619346454247095
+  },
+  {
+   "year": 2007,
+   "keyword": "inform",
+   "probability": 0.003164982703496012
+  },
+  {
+   "year": 2008,
+   "keyword": "human",
+   "probability": 0.007356702094915496
+  },
+  {
+   "year": 2008,
+   "keyword": "brain",
+   "probability": 0.009823464888552257
+  },
+  {
+   "year": 2008,
+   "keyword": "univers",
+   "probability": 0.007375243678561503
+  },
+  {
+   "year": 2008,
+   "keyword": "comput",
+   "probability": 0.006854117353714197
+  },
+  {
+   "year": 2008,
+   "keyword": "technolog",
+   "probability": 0.005035090158613966
+  },
+  {
+   "year": 2008,
+   "keyword": "question",
+   "probability": 0.005141556334924914
+  },
+  {
+   "year": 2008,
+   "keyword": "understand",
+   "probability": 0.0044629528143767215
+  },
+  {
+   "year": 2008,
+   "keyword": "learn",
+   "probability": 0.0035416034056758245
+  },
+  {
+   "year": 2008,
+   "keyword": "robot",
+   "probability": 0.003803221622247562
+  },
+  {
+   "year": 2008,
+   "keyword": "inform",
+   "probability": 0.0033540726080781404
+  },
+  {
+   "year": 2009,
+   "keyword": "human",
+   "probability": 0.007492429712334563
+  },
+  {
+   "year": 2009,
+   "keyword": "brain",
+   "probability": 0.012555457022146032
+  },
+  {
+   "year": 2009,
+   "keyword": "univers",
+   "probability": 0.007088212765474015
+  },
+  {
+   "year": 2009,
+   "keyword": "comput",
+   "probability": 0.005786942682312705
+  },
+  {
+   "year": 2009,
+   "keyword": "technolog",
+   "probability": 0.004719698062402057
+  },
+  {
+   "year": 2009,
+   "keyword": "question",
+   "probability": 0.005167239990152293
+  },
+  {
+   "year": 2009,
+   "keyword": "understand",
+   "probability": 0.00498826259810822
+  },
+  {
+   "year": 2009,
+   "keyword": "learn",
+   "probability": 0.003900333355540362
+  },
+  {
+   "year": 2009,
+   "keyword": "robot",
+   "probability": 0.004042456000826985
+  },
+  {
+   "year": 2009,
+   "keyword": "inform",
+   "probability": 0.0036439107398101834
+  },
+  {
+   "year": 2010,
+   "keyword": "human",
+   "probability": 0.008658870477010154
+  },
+  {
+   "year": 2010,
+   "keyword": "brain",
+   "probability": 0.012110224698620636
+  },
+  {
+   "year": 2010,
+   "keyword": "univers",
+   "probability": 0.007025807739328857
+  },
+  {
+   "year": 2010,
+   "keyword": "comput",
+   "probability": 0.006018906808126637
+  },
+  {
+   "year": 2010,
+   "keyword": "technolog",
+   "probability": 0.005106226742536337
+  },
+  {
+   "year": 2010,
+   "keyword": "question",
+   "probability": 0.005186142898576139
+  },
+  {
+   "year": 2010,
+   "keyword": "understand",
+   "probability": 0.00484284987443419
+  },
+  {
+   "year": 2010,
+   "keyword": "learn",
+   "probability": 0.004292196456116898
+  },
+  {
+   "year": 2010,
+   "keyword": "robot",
+   "probability": 0.0042856123630196094
+  },
+  {
+   "year": 2010,
+   "keyword": "inform",
+   "probability": 0.003973247182019492
+  },
+  {
+   "year": 2011,
+   "keyword": "human",
+   "probability": 0.009719954213550219
+  },
+  {
+   "year": 2011,
+   "keyword": "brain",
+   "probability": 0.01094814275759952
+  },
+  {
+   "year": 2011,
+   "keyword": "univers",
+   "probability": 0.007221157852157292
+  },
+  {
+   "year": 2011,
+   "keyword": "comput",
+   "probability": 0.006202079158430598
+  },
+  {
+   "year": 2011,
+   "keyword": "technolog",
+   "probability": 0.005632602566282411
+  },
+  {
+   "year": 2011,
+   "keyword": "question",
+   "probability": 0.005118041619457339
+  },
+  {
+   "year": 2011,
+   "keyword": "understand",
+   "probability": 0.004862373242510883
+  },
+  {
+   "year": 2011,
+   "keyword": "learn",
+   "probability": 0.00465488048282387
+  },
+  {
+   "year": 2011,
+   "keyword": "robot",
+   "probability": 0.004515439339133049
+  },
+  {
+   "year": 2011,
+   "keyword": "inform",
+   "probability": 0.004304622239408961
+  },
+  {
+   "year": 2012,
+   "keyword": "human",
+   "probability": 0.010379632352777345
+  },
+  {
+   "year": 2012,
+   "keyword": "brain",
+   "probability": 0.010043253059607444
+  },
+  {
+   "year": 2012,
+   "keyword": "univers",
+   "probability": 0.007519728578695032
+  },
+  {
+   "year": 2012,
+   "keyword": "comput",
+   "probability": 0.006264751886688534
+  },
+  {
+   "year": 2012,
+   "keyword": "technolog",
+   "probability": 0.006195056915097257
+  },
+  {
+   "year": 2012,
+   "keyword": "question",
+   "probability": 0.005103647986913964
+  },
+  {
+   "year": 2012,
+   "keyword": "understand",
+   "probability": 0.004942546566995
+  },
+  {
+   "year": 2012,
+   "keyword": "learn",
+   "probability": 0.004860804681338835
+  },
+  {
+   "year": 2012,
+   "keyword": "robot",
+   "probability": 0.004663730058015175
+  },
+  {
+   "year": 2012,
+   "keyword": "inform",
+   "probability": 0.004517939201703418
+  }
+ ],
+ "Story & Women": [
+  {
+   "year": 2006,
+   "keyword": "stori",
+   "probability": 0.009458106614143685
+  },
+  {
+   "year": 2006,
+   "keyword": "women",
+   "probability": 0.006656278278248529
+  },
+  {
+   "year": 2006,
+   "keyword": "love",
+   "probability": 0.007956426682077125
+  },
+  {
+   "year": 2006,
+   "keyword": "girl",
+   "probability": 0.003051675018378083
+  },
+  {
+   "year": 2006,
+   "keyword": "went",
+   "probability": 0.004877450218401077
+  },
+  {
+   "year": 2006,
+   "keyword": "woman",
+   "probability": 0.003746476181562523
+  },
+  {
+   "year": 2006,
+   "keyword": "thought",
+   "probability": 0.00341979964563013
+  },
+  {
+   "year": 2006,
+   "keyword": "came",
+   "probability": 0.0033175019505216102
+  },
+  {
+   "year": 2006,
+   "keyword": "school",
+   "probability": 0.002050767319735341
+  },
+  {
+   "year": 2006,
+   "keyword": "father",
+   "probability": 0.0023882444833769143
+  },
+  {
+   "year": 2007,
+   "keyword": "stori",
+   "probability": 0.009658771532602833
+  },
+  {
+   "year": 2007,
+   "keyword": "women",
+   "probability": 0.0064297314213178506
+  },
+  {
+   "year": 2007,
+   "keyword": "love",
+   "probability": 0.007714092843508226
+  },
+  {
+   "year": 2007,
+   "keyword": "girl",
+   "probability": 0.003000892587779802
+  },
+  {
+   "year": 2007,
+   "keyword": "went",
+   "probability": 0.005080629474381441
+  },
+  {
+   "year": 2007,
+   "keyword": "woman",
+   "probability": 0.003540731221120247
+  },
+  {
+   "year": 2007,
+   "keyword": "thought",
+   "probability": 0.0034616953898379777
+  },
+  {
+   "year": 2007,
+   "keyword": "came",
+   "probability": 0.003336345698113984
+  },
+  {
+   "year": 2007,
+   "keyword": "school",
+   "probability": 0.0021510706501036646
+  },
+  {
+   "year": 2007,
+   "keyword": "father",
+   "probability": 0.0024711654482165585
+  },
+  {
+   "year": 2008,
+   "keyword": "stori",
+   "probability": 0.010966909915149002
+  },
+  {
+   "year": 2008,
+   "keyword": "women",
+   "probability": 0.006510336116338913
+  },
+  {
+   "year": 2008,
+   "keyword": "love",
+   "probability": 0.007308964299615372
+  },
+  {
+   "year": 2008,
+   "keyword": "girl",
+   "probability": 0.0034669724318091145
+  },
+  {
+   "year": 2008,
+   "keyword": "went",
+   "probability": 0.005320336596451797
+  },
+  {
+   "year": 2008,
+   "keyword": "woman",
+   "probability": 0.003612112794062714
+  },
+  {
+   "year": 2008,
+   "keyword": "thought",
+   "probability": 0.0034511393329807326
+  },
+  {
+   "year": 2008,
+   "keyword": "came",
+   "probability": 0.0034497124219162643
+  },
+  {
+   "year": 2008,
+   "keyword": "school",
+   "probability": 0.002340107035062679
+  },
+  {
+   "year": 2008,
+   "keyword": "father",
+   "probability": 0.0026132910685617875
+  },
+  {
+   "year": 2009,
+   "keyword": "stori",
+   "probability": 0.011172598144208196
+  },
+  {
+   "year": 2009,
+   "keyword": "women",
+   "probability": 0.007074074021515144
+  },
+  {
+   "year": 2009,
+   "keyword": "love",
+   "probability": 0.006745873917374845
+  },
+  {
+   "year": 2009,
+   "keyword": "girl",
+   "probability": 0.004586955620360568
+  },
+  {
+   "year": 2009,
+   "keyword": "went",
+   "probability": 0.005269323657577621
+  },
+  {
+   "year": 2009,
+   "keyword": "woman",
+   "probability": 0.0036924986129294323
+  },
+  {
+   "year": 2009,
+   "keyword": "thought",
+   "probability": 0.0034481111918699993
+  },
+  {
+   "year": 2009,
+   "keyword": "came",
+   "probability": 0.003400252630738279
+  },
+  {
+   "year": 2009,
+   "keyword": "school",
+   "probability": 0.002601711466554854
+  },
+  {
+   "year": 2009,
+   "keyword": "father",
+   "probability": 0.002798271466405675
+  },
+  {
+   "year": 2010,
+   "keyword": "stori",
+   "probability": 0.011282500204925482
+  },
+  {
+   "year": 2010,
+   "keyword": "women",
+   "probability": 0.008002849642881869
+  },
+  {
+   "year": 2010,
+   "keyword": "love",
+   "probability": 0.006180367084172976
+  },
+  {
+   "year": 2010,
+   "keyword": "girl",
+   "probability": 0.0052911040845775
+  },
+  {
+   "year": 2010,
+   "keyword": "went",
+   "probability": 0.005133640081481896
+  },
+  {
+   "year": 2010,
+   "keyword": "woman",
+   "probability": 0.0036904653541817265
+  },
+  {
+   "year": 2010,
+   "keyword": "thought",
+   "probability": 0.0034974672072699037
+  },
+  {
+   "year": 2010,
+   "keyword": "came",
+   "probability": 0.0033319509222294735
+  },
+  {
+   "year": 2010,
+   "keyword": "school",
+   "probability": 0.0028899535305617983
+  },
+  {
+   "year": 2010,
+   "keyword": "father",
+   "probability": 0.002989551622883876
+  },
+  {
+   "year": 2011,
+   "keyword": "stori",
+   "probability": 0.009987152815515947
+  },
+  {
+   "year": 2011,
+   "keyword": "women",
+   "probability": 0.008654323889145577
+  },
+  {
+   "year": 2011,
+   "keyword": "love",
+   "probability": 0.005721421484984913
+  },
+  {
+   "year": 2011,
+   "keyword": "girl",
+   "probability": 0.004851121140202125
+  },
+  {
+   "year": 2011,
+   "keyword": "went",
+   "probability": 0.004838672696569123
+  },
+  {
+   "year": 2011,
+   "keyword": "woman",
+   "probability": 0.0036443953416893677
+  },
+  {
+   "year": 2011,
+   "keyword": "thought",
+   "probability": 0.0036288208647636978
+  },
+  {
+   "year": 2011,
+   "keyword": "came",
+   "probability": 0.003358272650431124
+  },
+  {
+   "year": 2011,
+   "keyword": "school",
+   "probability": 0.0031306153362321196
+  },
+  {
+   "year": 2011,
+   "keyword": "father",
+   "probability": 0.0031544662529552816
+  },
+  {
+   "year": 2012,
+   "keyword": "stori",
+   "probability": 0.009915431919171745
+  },
+  {
+   "year": 2012,
+   "keyword": "women",
+   "probability": 0.00891535055963239
+  },
+  {
+   "year": 2012,
+   "keyword": "love",
+   "probability": 0.00546785578495084
+  },
+  {
+   "year": 2012,
+   "keyword": "girl",
+   "probability": 0.004593322662251326
+  },
+  {
+   "year": 2012,
+   "keyword": "went",
+   "probability": 0.004498826989262437
+  },
+  {
+   "year": 2012,
+   "keyword": "woman",
+   "probability": 0.0035201521557585466
+  },
+  {
+   "year": 2012,
+   "keyword": "thought",
+   "probability": 0.00346479666087053
+  },
+  {
+   "year": 2012,
+   "keyword": "came",
+   "probability": 0.0033150151252167343
+  },
+  {
+   "year": 2012,
+   "keyword": "school",
+   "probability": 0.0032674146743622667
+  },
+  {
+   "year": 2012,
+   "keyword": "father",
+   "probability": 0.003232703987111224
+  }
+ ]
+}

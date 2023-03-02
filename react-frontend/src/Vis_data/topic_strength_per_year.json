@@ -1,0 +1,508 @@
+{
+ "topic_evolution": [
+  {
+   "date": "2006",
+   "topic_id": 0,
+   "topic_name": "Music & Creativity",
+   "topic_strength": 0.1578,
+   "topic_rank": 0.158,
+   "sentiment": 0.1116,
+   "keywords": "music play book sort sound idea hear video piec song"
+  },
+  {
+   "date": "2006",
+   "topic_id": 1,
+   "topic_name": "Happiness",
+   "topic_strength": 0.1299,
+   "topic_rank": 0.1755,
+   "sentiment": 0.0902,
+   "keywords": "happi choic idea countri social problem religion state question societi"
+  },
+  {
+   "date": "2006",
+   "topic_id": 2,
+   "topic_name": "Medicine",
+   "topic_strength": 0.0513,
+   "topic_rank": 0.0781,
+   "sentiment": 0.0287,
+   "keywords": "cell diseas brain patient cancer heart bodi gene treat medic"
+  },
+  {
+   "date": "2006",
+   "topic_id": 3,
+   "topic_name": "Development",
+   "topic_strength": 0.1759,
+   "topic_rank": 0.2034,
+   "sentiment": 0.1192,
+   "keywords": "countri africa percent dollar problem market develop school money compani"
+  },
+  {
+   "date": "2006",
+   "topic_id": 4,
+   "topic_name": "Environment",
+   "topic_strength": 0.0337,
+   "topic_rank": 0.0575,
+   "sentiment": 0.0231,
+   "keywords": "earth planet water speci anim human ocean place natur system"
+  },
+  {
+   "date": "2006",
+   "topic_id": 5,
+   "topic_name": "Design",
+   "topic_strength": 0.1173,
+   "topic_rank": 0.1792,
+   "sentiment": 0.0804,
+   "keywords": "design build idea sort space creat citi project interest place"
+  },
+  {
+   "date": "2006",
+   "topic_id": 6,
+   "topic_name": "Tech",
+   "topic_strength": 0.1675,
+   "topic_rank": 0.2349,
+   "sentiment": 0.1053,
+   "keywords": "brain technolog human univers comput question understand theori idea fact"
+  },
+  {
+   "date": "2006",
+   "topic_id": 7,
+   "topic_name": "Story & Women",
+   "topic_strength": 0.1667,
+   "topic_rank": 0.211,
+   "sentiment": 0.1143,
+   "keywords": "stori love women went believ woman human thought came famili"
+  },
+  {
+   "date": "2007",
+   "topic_id": 0,
+   "topic_name": "Music & Creativity",
+   "topic_strength": 0.1488,
+   "topic_rank": 0.1506,
+   "sentiment": 0.1061,
+   "keywords": "play music book sort sound idea video hear song hand"
+  },
+  {
+   "date": "2007",
+   "topic_id": 1,
+   "topic_name": "Happiness",
+   "topic_strength": 0.0759,
+   "topic_rank": 0.1237,
+   "sentiment": 0.0482,
+   "keywords": "happi idea choic social societi countri problem state group question"
+  },
+  {
+   "date": "2007",
+   "topic_id": 2,
+   "topic_name": "Medicine",
+   "topic_strength": 0.0459,
+   "topic_rank": 0.0874,
+   "sentiment": 0.0295,
+   "keywords": "cell diseas brain patient cancer bodi gene heart organ treat"
+  },
+  {
+   "date": "2007",
+   "topic_id": 3,
+   "topic_name": "Development",
+   "topic_strength": 0.1504,
+   "topic_rank": 0.2054,
+   "sentiment": 0.0997,
+   "keywords": "countri percent africa dollar problem market develop food school compani"
+  },
+  {
+   "date": "2007",
+   "topic_id": 4,
+   "topic_name": "Environment",
+   "topic_strength": 0.1179,
+   "topic_rank": 0.1749,
+   "sentiment": 0.0801,
+   "keywords": "earth planet water speci anim ocean human natur place system"
+  },
+  {
+   "date": "2007",
+   "topic_id": 5,
+   "topic_name": "Design",
+   "topic_strength": 0.1681,
+   "topic_rank": 0.189,
+   "sentiment": 0.1167,
+   "keywords": "design build idea sort space creat citi project interest place"
+  },
+  {
+   "date": "2007",
+   "topic_id": 6,
+   "topic_name": "Tech",
+   "topic_strength": 0.1449,
+   "topic_rank": 0.186,
+   "sentiment": 0.0949,
+   "keywords": "brain human comput univers technolog question understand idea theori languag"
+  },
+  {
+   "date": "2007",
+   "topic_id": 7,
+   "topic_name": "Story & Women",
+   "topic_strength": 0.1481,
+   "topic_rank": 0.2009,
+   "sentiment": 0.0953,
+   "keywords": "stori love women went believ human woman thought came famili"
+  },
+  {
+   "date": "2008",
+   "topic_id": 0,
+   "topic_name": "Music & Creativity",
+   "topic_strength": 0.1601,
+   "topic_rank": 0.1719,
+   "sentiment": 0.1161,
+   "keywords": "play music sound book sort video idea hear hand great"
+  },
+  {
+   "date": "2008",
+   "topic_id": 1,
+   "topic_name": "Happiness",
+   "topic_strength": 0.0784,
+   "topic_rank": 0.1348,
+   "sentiment": 0.0514,
+   "keywords": "happi idea social societi rule group choic state problem question"
+  },
+  {
+   "date": "2008",
+   "topic_id": 2,
+   "topic_name": "Medicine",
+   "topic_strength": 0.0585,
+   "topic_rank": 0.0836,
+   "sentiment": 0.0353,
+   "keywords": "cell diseas patient brain cancer bodi gene heart organ blood"
+  },
+  {
+   "date": "2008",
+   "topic_id": 3,
+   "topic_name": "Development",
+   "topic_strength": 0.1138,
+   "topic_rank": 0.1562,
+   "sentiment": 0.075,
+   "keywords": "countri percent dollar food africa problem market school develop kid"
+  },
+  {
+   "date": "2008",
+   "topic_id": 4,
+   "topic_name": "Environment",
+   "topic_strength": 0.0987,
+   "topic_rank": 0.1518,
+   "sentiment": 0.0626,
+   "keywords": "earth water planet anim ocean speci human natur place tree"
+  },
+  {
+   "date": "2008",
+   "topic_id": 5,
+   "topic_name": "Design",
+   "topic_strength": 0.1647,
+   "topic_rank": 0.1971,
+   "sentiment": 0.1115,
+   "keywords": "design build idea sort creat space project light citi interest"
+  },
+  {
+   "date": "2008",
+   "topic_id": 6,
+   "topic_name": "Tech",
+   "topic_strength": 0.151,
+   "topic_rank": 0.1941,
+   "sentiment": 0.0991,
+   "keywords": "brain univers human comput question technolog idea understand machin theori"
+  },
+  {
+   "date": "2008",
+   "topic_id": 7,
+   "topic_name": "Story & Women",
+   "topic_strength": 0.1747,
+   "topic_rank": 0.2087,
+   "sentiment": 0.12,
+   "keywords": "stori love women went believ mother woman human girl thought"
+  },
+  {
+   "date": "2009",
+   "topic_id": 0,
+   "topic_name": "Music & Creativity",
+   "topic_strength": 0.1253,
+   "topic_rank": 0.1398,
+   "sentiment": 0.0908,
+   "keywords": "play music sound book video sort hear idea great hand"
+  },
+  {
+   "date": "2009",
+   "topic_id": 1,
+   "topic_name": "Happiness",
+   "topic_strength": 0.119,
+   "topic_rank": 0.1653,
+   "sentiment": 0.0781,
+   "keywords": "happi idea social rule societi choic state question countri problem"
+  },
+  {
+   "date": "2009",
+   "topic_id": 2,
+   "topic_name": "Medicine",
+   "topic_strength": 0.0463,
+   "topic_rank": 0.0773,
+   "sentiment": 0.0306,
+   "keywords": "cell patient cancer diseas brain bodi heart gene organ health"
+  },
+  {
+   "date": "2009",
+   "topic_id": 3,
+   "topic_name": "Development",
+   "topic_strength": 0.1539,
+   "topic_rank": 0.1864,
+   "sentiment": 0.0985,
+   "keywords": "percent countri food problem school dollar india market develop kid"
+  },
+  {
+   "date": "2009",
+   "topic_id": 4,
+   "topic_name": "Environment",
+   "topic_strength": 0.1047,
+   "topic_rank": 0.1527,
+   "sentiment": 0.0692,
+   "keywords": "water planet earth ocean anim speci natur fish human place"
+  },
+  {
+   "date": "2009",
+   "topic_id": 5,
+   "topic_name": "Design",
+   "topic_strength": 0.1844,
+   "topic_rank": 0.2138,
+   "sentiment": 0.1295,
+   "keywords": "design build creat light space idea sort project citi move"
+  },
+  {
+   "date": "2009",
+   "topic_id": 6,
+   "topic_name": "Tech",
+   "topic_strength": 0.1384,
+   "topic_rank": 0.1743,
+   "sentiment": 0.0919,
+   "keywords": "brain human univers comput question understand technolog idea problem robot"
+  },
+  {
+   "date": "2009",
+   "topic_id": 7,
+   "topic_name": "Story & Women",
+   "topic_strength": 0.1281,
+   "topic_rank": 0.1655,
+   "sentiment": 0.0839,
+   "keywords": "stori women love went girl mother woman believ thought famili"
+  },
+  {
+   "date": "2010",
+   "topic_id": 0,
+   "topic_name": "Music & Creativity",
+   "topic_strength": 0.1083,
+   "topic_rank": 0.115,
+   "sentiment": 0.0763,
+   "keywords": "play music sound video book hear listen idea sort creativ"
+  },
+  {
+   "date": "2010",
+   "topic_id": 1,
+   "topic_name": "Happiness",
+   "topic_strength": 0.1208,
+   "topic_rank": 0.1693,
+   "sentiment": 0.078,
+   "keywords": "social choic happi idea govern societi countri polit state question"
+  },
+  {
+   "date": "2010",
+   "topic_id": 2,
+   "topic_name": "Medicine",
+   "topic_strength": 0.0815,
+   "topic_rank": 0.1222,
+   "sentiment": 0.0531,
+   "keywords": "cell patient cancer bodi diseas brain organ health blood heart"
+  },
+  {
+   "date": "2010",
+   "topic_id": 3,
+   "topic_name": "Development",
+   "topic_strength": 0.1724,
+   "topic_rank": 0.2031,
+   "sentiment": 0.114,
+   "keywords": "percent food countri school problem dollar kid india develop citi"
+  },
+  {
+   "date": "2010",
+   "topic_id": 4,
+   "topic_name": "Environment",
+   "topic_strength": 0.1419,
+   "topic_rank": 0.2013,
+   "sentiment": 0.0876,
+   "keywords": "water ocean planet earth anim fish natur speci place system"
+  },
+  {
+   "date": "2010",
+   "topic_id": 5,
+   "topic_name": "Design",
+   "topic_strength": 0.1262,
+   "topic_rank": 0.1476,
+   "sentiment": 0.0908,
+   "keywords": "design build light creat space project idea sort citi imag"
+  },
+  {
+   "date": "2010",
+   "topic_id": 6,
+   "topic_name": "Tech",
+   "topic_strength": 0.0979,
+   "topic_rank": 0.1376,
+   "sentiment": 0.0666,
+   "keywords": "brain human univers comput question technolog understand game idea languag"
+  },
+  {
+   "date": "2010",
+   "topic_id": 7,
+   "topic_name": "Story & Women",
+   "topic_strength": 0.151,
+   "topic_rank": 0.1949,
+   "sentiment": 0.0987,
+   "keywords": "stori women love girl went mother woman thought famili came"
+  },
+  {
+   "date": "2011",
+   "topic_id": 0,
+   "topic_name": "Music & Creativity",
+   "topic_strength": 0.1279,
+   "topic_rank": 0.1346,
+   "sentiment": 0.0919,
+   "keywords": "music play sound video book hear listen word idea learn"
+  },
+  {
+   "date": "2011",
+   "topic_id": 1,
+   "topic_name": "Happiness",
+   "topic_strength": 0.0981,
+   "topic_rank": 0.1454,
+   "sentiment": 0.0616,
+   "keywords": "social countri choic govern polit societi idea state question happi"
+  },
+  {
+   "date": "2011",
+   "topic_id": 2,
+   "topic_name": "Medicine",
+   "topic_strength": 0.1069,
+   "topic_rank": 0.1703,
+   "sentiment": 0.0664,
+   "keywords": "cell cancer patient bodi diseas brain health organ drug medic"
+  },
+  {
+   "date": "2011",
+   "topic_id": 3,
+   "topic_name": "Development",
+   "topic_strength": 0.0884,
+   "topic_rank": 0.1247,
+   "sentiment": 0.057,
+   "keywords": "percent food school countri problem dollar kid citi children cost"
+  },
+  {
+   "date": "2011",
+   "topic_id": 4,
+   "topic_name": "Environment",
+   "topic_strength": 0.0861,
+   "topic_rank": 0.1218,
+   "sentiment": 0.057,
+   "keywords": "water ocean planet earth anim natur fish system speci energi"
+  },
+  {
+   "date": "2011",
+   "topic_id": 5,
+   "topic_name": "Design",
+   "topic_strength": 0.1502,
+   "topic_rank": 0.1718,
+   "sentiment": 0.1049,
+   "keywords": "design light build creat space project idea citi data imag"
+  },
+  {
+   "date": "2011",
+   "topic_id": 6,
+   "topic_name": "Tech",
+   "topic_strength": 0.1388,
+   "topic_rank": 0.175,
+   "sentiment": 0.0896,
+   "keywords": "brain human univers comput technolog question languag understand learn robot"
+  },
+  {
+   "date": "2011",
+   "topic_id": 7,
+   "topic_name": "Story & Women",
+   "topic_strength": 0.2036,
+   "topic_rank": 0.2336,
+   "sentiment": 0.1346,
+   "keywords": "stori women love girl went woman thought mother came famili"
+  },
+  {
+   "date": "2012",
+   "topic_id": 0,
+   "topic_name": "Music & Creativity",
+   "topic_strength": 0.1264,
+   "topic_rank": 0.142,
+   "sentiment": 0.0861,
+   "keywords": "music play sound video book hear word listen learn idea"
+  },
+  {
+   "date": "2012",
+   "topic_id": 1,
+   "topic_name": "Happiness",
+   "topic_strength": 0.1207,
+   "topic_rank": 0.1632,
+   "sentiment": 0.0726,
+   "keywords": "social countri govern polit choic societi idea state question exampl"
+  },
+  {
+   "date": "2012",
+   "topic_id": 2,
+   "topic_name": "Medicine",
+   "topic_strength": 0.1021,
+   "topic_rank": 0.1492,
+   "sentiment": 0.0648,
+   "keywords": "cell cancer patient bodi diseas medic health brain doctor drug"
+  },
+  {
+   "date": "2012",
+   "topic_id": 3,
+   "topic_name": "Development",
+   "topic_strength": 0.1085,
+   "topic_rank": 0.1482,
+   "sentiment": 0.0678,
+   "keywords": "percent school food countri problem dollar kid citi cost children"
+  },
+  {
+   "date": "2012",
+   "topic_id": 4,
+   "topic_name": "Environment",
+   "topic_strength": 0.0791,
+   "topic_rank": 0.1295,
+   "sentiment": 0.0507,
+   "keywords": "water ocean planet earth anim natur energi fish system speci"
+  },
+  {
+   "date": "2012",
+   "topic_id": 5,
+   "topic_name": "Design",
+   "topic_strength": 0.1772,
+   "topic_rank": 0.1817,
+   "sentiment": 0.1187,
+   "keywords": "design light build creat space project citi idea data technolog"
+  },
+  {
+   "date": "2012",
+   "topic_id": 6,
+   "topic_name": "Tech",
+   "topic_strength": 0.1161,
+   "topic_rank": 0.1467,
+   "sentiment": 0.0743,
+   "keywords": "human brain univers comput technolog question understand learn robot inform"
+  },
+  {
+   "date": "2012",
+   "topic_id": 7,
+   "topic_name": "Story & Women",
+   "topic_strength": 0.1699,
+   "topic_rank": 0.2181,
+   "sentiment": 0.1038,
+   "keywords": "stori women love girl went woman thought came school father"
+  }
+ ]
+}
